@@ -1,0 +1,1001 @@
+product_name,price,stock_quantity,location,manufacturer,expiration_date,vending_machine_id,category
+Duck - Legs,3.62,71,0 Thompson Center,Voonyx,2/5/2022,1,Beverages
+Lobster - Tail 6 Oz,8.56,329,17 Hazelcrest Center,Topicware,3/25/2022,2,Snacks
+Bread - French Stick,1.22,942,39 Donald Parkway,Livepath,10/31/2022,3,Snacks
+Sprouts Dikon,8.57,549,00363 Linden Hill,Yambee,6/3/2023,4,Beverages
+"Schnappes - Peach, Walkers",4.06,779,36 Aberg Park,Jaxworks,1/7/2023,5,Beverages
+Wine - Beringer Founders Estate,4.79,693,36833 Thompson Pass,Feedspan,6/12/2023,6,Candy
+Coffee - Irish Cream,8.21,915,57611 Dunning Point,Divanoodle,2/6/2023,7,Snacks
+Bread - Italian Roll With Herbs,2.55,40,96048 Morning Hill,Muxo,4/4/2023,8,Candy
+Nacho Chips,5.18,785,281 Morningstar Parkway,Twitterwire,12/20/2023,9,Candy
+Lamb - Bones,9.34,774,1 Hagan Way,Browsetype,9/14/2023,10,Beverages
+"Pepper - White, Ground",1.09,554,331 Melody Court,Einti,7/7/2023,11,Candy
+Onions Granulated,9.9,626,56 Redwing Hill,Yombu,9/11/2023,12,Snacks
+Pasta - Angel Hair,9.14,978,15592 Corben Place,Fliptune,11/7/2022,13,Snacks
+Mix - Cocktail Strawberry Daiquiri,7.66,582,819 Sundown Place,Bluejam,3/21/2023,14,Snacks
+"Zucchini - Mini, Green",1.66,863,18208 Melrose Junction,Pixonyx,4/16/2022,15,Beverages
+Bread Base - Goodhearth,5.26,384,21 Norway Maple Road,Photojam,2/14/2023,16,Beverages
+Cheese - Ermite Bleu,6.69,506,3 Moose Way,Realblab,7/9/2023,17,Beverages
+Water - Spring 1.5lit,7.47,380,3 Melrose Way,Linkbuzz,5/6/2022,18,Beverages
+Cup - Paper 10oz 92959,6.77,54,76626 Karstens Crossing,Realmix,2/3/2022,19,Beverages
+Jack Daniels,6.22,365,51 Burrows Pass,Devify,4/14/2023,20,Snacks
+"Shrimp - Baby, Warm Water",9.38,561,60408 Manley Street,Realbuzz,8/3/2023,21,Candy
+Filo Dough,3.63,641,604 Homewood Street,Bubblebox,8/4/2023,22,Beverages
+Sauce - Soy Low Sodium - 3.87l,2.46,590,02531 Ronald Regan Street,Abatz,4/29/2022,23,Candy
+Lamb Rack Frenched Australian,1.2,441,61081 Sutteridge Lane,Oyoba,3/29/2023,24,Candy
+Dried Apple,4.92,833,957 Cardinal Street,Omba,3/1/2023,25,Snacks
+Sobe - Green Tea,2.71,762,2 Hollow Ridge Lane,Browsezoom,11/10/2023,26,Beverages
+Foie Gras,6.88,754,0339 Pine View Junction,Browsedrive,6/20/2022,27,Snacks
+Veal - Loin,7.48,872,44 Alpine Drive,Yoveo,4/12/2023,28,Beverages
+Ice Cream Bar - Hagen Daz,9.23,758,44515 Drewry Lane,Devshare,7/5/2022,29,Snacks
+"Stock - Beef, Brown",9.23,435,56988 Morrow Park,Voolia,10/28/2022,30,Candy
+Soup - Campbells Asian Noodle,8.12,815,51634 Heath Place,Youopia,1/22/2022,31,Snacks
+Soup - Campbells Bean Medley,3.84,300,06 Norway Maple Junction,Gabtype,4/29/2023,32,Candy
+Squash - Sunburst,2.47,388,6 Hauk Parkway,Tazzy,11/28/2023,33,Beverages
+French Pastries,6.15,885,16173 Old Shore Court,Kazio,9/5/2022,34,Snacks
+Mangostein,6.71,421,22159 Londonderry Court,Wikibox,7/4/2022,35,Beverages
+Coriander - Seed,8.25,686,94 Canary Junction,Gabspot,1/28/2023,36,Snacks
+Ice Cream - Strawberry,1.82,54,8613 Buena Vista Street,Flashdog,2/17/2022,37,Candy
+Beef - Tenderloin Tails,3.99,971,73 Elmside Park,Zava,4/24/2023,38,Beverages
+Fish - Bones,9.63,957,5 1st Court,Fivechat,7/26/2022,39,Snacks
+Beef Cheek Fresh,5.37,667,11 Duke Way,Yadel,10/28/2023,40,Candy
+Sage - Fresh,6.3,393,5 Blaine Plaza,Skyba,6/15/2022,41,Candy
+"Wine - White, Pelee Island",2.48,793,0 South Lane,Quinu,4/17/2023,42,Candy
+"Wine - Red, Black Opal Shiraz",4.8,471,10 Melody Trail,Voonyx,7/18/2022,43,Candy
+Olives - Stuffed,8.53,28,7 Elgar Alley,Skilith,4/6/2022,44,Beverages
+"Cheese - Cheddar, Old White",9.91,125,19361 Reindahl Place,Agimba,4/20/2022,45,Candy
+Tea - Decaf 1 Cup,2.54,87,748 East Parkway,Yozio,11/7/2022,46,Candy
+Mustard - Individual Pkg,9.4,78,155 3rd Lane,Edgeblab,9/21/2022,47,Snacks
+Sprouts - Alfalfa,3.61,927,33 Forest Dale Park,Lazz,6/21/2022,48,Candy
+Mustard - Seed,6.74,229,5 Memorial Terrace,Kwimbee,9/8/2022,49,Candy
+Wine - Chateau Timberlay,7.36,950,52013 Portage Center,Skaboo,6/26/2023,50,Beverages
+Muffin Mix - Blueberry,9.19,788,51342 Valley Edge Trail,Voomm,11/3/2022,51,Candy
+Wine - Tio Pepe Sherry Fino,6.28,540,5 Myrtle Junction,Trudoo,7/3/2023,52,Snacks
+Daikon Radish,3.69,558,22 Meadow Vale Alley,Shufflebeat,4/26/2023,53,Snacks
+Pork - Sausage Casing,8.28,399,9767 Golden Leaf Place,Twitternation,2/18/2022,54,Snacks
+Limes,9.39,189,2 Fallview Lane,Cogidoo,3/14/2023,55,Candy
+Rolled Oats,7.9,916,02 Loeprich Street,Browsecat,2/21/2022,56,Snacks
+Amaretto,7.68,715,772 Petterle Terrace,Agimba,11/29/2022,57,Candy
+"Yeast - Fresh, Fleischman",4.07,461,17050 High Crossing Drive,Zazio,1/8/2022,58,Beverages
+Parasol Pick Stir Stick,2.32,553,51183 Dahle Way,Ainyx,4/30/2023,59,Snacks
+Curry Powder,8.83,891,05 Warner Pass,Vimbo,10/25/2023,60,Snacks
+Dc - Frozen Momji,7.77,56,8 Kinsman Road,Digitube,3/10/2023,61,Snacks
+Salad Dressing,9.14,630,035 Nancy Pass,Vimbo,8/12/2023,62,Snacks
+Frangelico,7.8,137,0 Gulseth Place,Bluezoom,11/12/2023,63,Snacks
+Tia Maria,8.84,418,6273 Dorton Pass,Livetube,2/17/2022,64,Snacks
+Cut Wakame - Hanawakaba,4.91,686,3 Dennis Avenue,Eamia,5/24/2022,65,Beverages
+"Wine - Saint - Bris 2002, Sauv",2.98,21,7379 Lighthouse Bay Court,Pixope,5/21/2023,66,Snacks
+Cloves - Ground,7.86,589,72 Barnett Drive,Skippad,7/17/2023,67,Snacks
+"Salmon - Whole, 4 - 6 Pounds",4.43,840,2152 Thompson Road,Kazu,6/15/2023,68,Candy
+Wine - Barbera Alba Doc 2001,9.6,371,94 Morningstar Drive,Babbleset,9/12/2023,69,Snacks
+"Soup - Knorr, Ministrone",2.81,430,0888 Crowley Terrace,Tagfeed,1/22/2023,70,Beverages
+Cactus Pads,7.97,619,7977 Montana Center,Brainsphere,6/20/2022,71,Beverages
+Strawberries - California,3.6,529,95037 Maryland Court,Kwideo,10/10/2023,72,Candy
+Liqueur - Melon,7.85,690,0 Brentwood Way,Bluezoom,6/1/2022,73,Beverages
+Cut Wakame - Hanawakaba,9.15,698,7 Merchant Lane,Tavu,2/24/2023,74,Beverages
+Soup - Boston Clam Chowder,5.62,717,598 Manley Place,Dynabox,5/11/2023,75,Snacks
+"Juice - V8, Tomato",6.38,934,444 Ramsey Court,Kwinu,1/25/2023,76,Snacks
+"Lemonade - Kiwi, 591 Ml",4.53,923,632 Becker Court,Linklinks,6/25/2022,77,Snacks
+Pastry - Carrot Muffin - Mini,6.68,638,7 Myrtle Drive,Innotype,5/15/2022,78,Beverages
+Soup V8 Roasted Red Pepper,1.34,640,2 Arapahoe Avenue,Buzzdog,2/25/2023,79,Candy
+Fondant - Icing,9.16,533,99286 West Park,Quamba,1/15/2023,80,Snacks
+Kellogs Special K Cereal,6.71,412,584 Manitowish Road,Cogibox,7/6/2023,81,Snacks
+Cheese Cheddar Processed,2.68,601,94619 Clove Court,Topiczoom,10/27/2022,82,Candy
+Ice Cream Bar - Drumstick,5.88,504,0 Bartillon Alley,Flipbug,6/7/2022,83,Snacks
+Pea - Snow,6.12,517,085 Monument Place,Realpoint,7/24/2023,84,Snacks
+Lettuce - Curly Endive,2.25,456,121 Beilfuss Avenue,Bluejam,12/18/2022,85,Snacks
+Lambcasing,1.59,677,9622 Anzinger Circle,Zava,4/28/2023,86,Beverages
+Brandy Cherry - Mcguinness,5.47,31,84513 Nelson Hill,Twiyo,8/19/2023,87,Snacks
+Parsley Italian - Fresh,8.13,982,89 Lukken Circle,Plambee,11/20/2023,88,Snacks
+"Pasta - Orzo, Dry",7.3,310,60 Warbler Junction,Rhynyx,10/27/2023,89,Snacks
+Pants Custom Dry Clean,8.98,486,637 Fuller Junction,Twitterbridge,4/13/2023,90,Beverages
+Bacardi Limon,7.86,413,468 Gale Pass,Gigabox,8/16/2022,91,Beverages
+Fudge - Chocolate Fudge,3.37,646,3 Dunning Pass,Twitterworks,3/30/2022,92,Beverages
+"Jam - Marmalade, Orange",6.9,507,967 Hoard Road,JumpXS,8/14/2023,93,Beverages
+Cheese - Fontina,7.5,984,713 Dovetail Junction,Zooxo,3/11/2022,94,Candy
+Foil - 4oz Custard Cup,9.39,974,21951 Nevada Parkway,Quatz,7/7/2022,95,Candy
+Wine - Carmenere Casillero Del,5.49,608,1 Brentwood Road,Bubblemix,8/13/2023,96,Beverages
+Grapes - Green,9.46,256,0253 Vidon Avenue,Shufflester,12/20/2023,97,Snacks
+"Wine - Red, Antinori Santa",2.86,648,8375 Sycamore Park,Quinu,6/11/2023,98,Beverages
+Oranges,7.97,30,3545 Vahlen Crossing,Myworks,6/9/2023,99,Snacks
+Trueblue - Blueberry,5.14,426,944 Cordelia Point,Gigaclub,1/8/2022,100,Snacks
+"Wine - Red, Metus Rose",9.45,801,1 Kropf Street,Bluezoom,12/11/2023,101,Snacks
+"Wine - White, Antinore Orvieto",5.44,417,83 Talmadge Alley,Yabox,1/3/2022,102,Beverages
+Sauce - Mint,3.63,611,47 Laurel Pass,Kwinu,3/31/2023,103,Candy
+Squash - Butternut,5.32,2,44399 Schurz Circle,Tanoodle,6/20/2023,104,Beverages
+Cheese - Shred Cheddar / Mozza,4.44,445,3 Warner Center,Chatterpoint,10/18/2023,105,Candy
+Pie Shell - 5,7.37,207,549 Upham Street,Blogtag,6/2/2023,106,Beverages
+"Rum - Coconut, Malibu",6.61,648,06 Barby Trail,Meejo,3/25/2023,107,Beverages
+"Bread - Roll, Canadian Dinner",7.04,225,625 Park Meadow Way,Jayo,4/9/2023,108,Snacks
+Glass Clear 8 Oz,2.62,666,432 Dixon Street,Skimia,12/30/2023,109,Snacks
+Cardamon Ground,2.18,505,15381 Onsgard Trail,Nlounge,5/12/2023,110,Snacks
+Wine - Niagara Peninsula Vqa,1.41,181,311 Mosinee Road,BlogXS,3/16/2023,111,Beverages
+Pork Loin Cutlets,4.27,244,80 Parkside Hill,Cogidoo,12/11/2023,112,Snacks
+Lettuce - Boston Bib,8.36,98,2 Towne Center,Innotype,9/3/2023,113,Beverages
+Creme De Banane - Marie,4.94,202,34948 Warrior Park,Eire,1/5/2022,114,Snacks
+Squid U5 - Thailand,7.55,469,339 Mallory Park,Skippad,4/25/2022,115,Snacks
+"Beef - Rib Roast, Cap On",1.4,121,7274 Dakota Alley,Skippad,12/14/2023,116,Beverages
+Mace,8.81,801,4257 Main Court,Fivespan,10/20/2023,117,Candy
+Wonton Wrappers,7.44,856,7 Lakewood Gardens Court,Vipe,4/12/2022,118,Candy
+"Oil - Truffle, Black",7.03,49,47824 6th Park,Gabtype,1/3/2023,119,Snacks
+Chicken - Whole Roasting,5.91,484,0 Bayside Crossing,Oodoo,5/14/2022,120,Snacks
+Longos - Lasagna Veg,4.32,467,9806 Division Street,Babblestorm,9/18/2022,121,Candy
+White Baguette,1.71,936,574 Esch Alley,Flipbug,9/15/2022,122,Beverages
+Taro Root,3.9,825,7 Caliangt Lane,Voolia,5/16/2022,123,Snacks
+Soap - Mr.clean Floor Soap,1.35,362,1419 Dapin Place,Flipopia,8/10/2022,124,Snacks
+Mushroom - Crimini,4.39,975,06386 Birchwood Way,Browsetype,7/27/2022,125,Candy
+Wine - Touraine Azay - Le - Rideau,9.55,756,6500 Rusk Place,Ntags,12/18/2022,126,Beverages
+Wine - Shiraz South Eastern,4.79,322,4 Red Cloud Street,Abatz,3/13/2022,127,Candy
+Eggplant - Baby,3.67,973,6359 Sommers Drive,Browsecat,3/13/2023,128,Snacks
+Cake - Cake Sheet Macaroon,7.2,938,004 Summerview Junction,Livetube,11/27/2023,129,Candy
+"Chicken - Leg, Fresh",9.8,879,1 Utah Lane,Pixoboo,9/26/2022,130,Beverages
+Muffin Chocolate Individual Wrap,9.65,43,40801 Sunfield Parkway,BlogXS,7/16/2023,131,Candy
+Bread - Frozen Basket Variety,6.4,261,15298 Bowman Circle,Shufflebeat,7/28/2022,132,Beverages
+Oil - Coconut,1.81,377,579 Jay Trail,Digitube,7/28/2022,133,Candy
+Squash - Pepper,7.78,294,17132 Lake View Avenue,Tekfly,10/9/2022,134,Snacks
+Munchies Honey Sweet Trail Mix,9.45,478,74 Kensington Junction,Vitz,3/12/2022,135,Snacks
+Wine - Balbach Riverside,9.92,60,90 Mitchell Terrace,Blognation,4/5/2023,136,Beverages
+Fondant - Icing,5.75,32,75 Tennyson Drive,Quinu,9/2/2023,137,Candy
+Arctic Char - Fillets,7.64,900,1676 Graceland Drive,Brainbox,9/5/2022,138,Snacks
+"Soup - Canadian Pea, Dry Mix",1.62,573,16626 Novick Parkway,Voomm,4/6/2023,139,Snacks
+Skewers - Bamboo,1.89,63,4659 Anniversary Crossing,Gabspot,3/4/2023,140,Beverages
+Cranberries - Frozen,9.0,271,0506 Cherokee Lane,Skyvu,5/26/2022,141,Beverages
+Cinnamon - Ground,5.39,505,0049 Hanson Place,Feedbug,1/17/2023,142,Snacks
+"Lentils - Green, Dry",8.03,439,35 Melody Lane,Youspan,8/3/2022,143,Snacks
+Oil - Hazelnut,5.81,624,00171 Sundown Terrace,Yodo,4/27/2022,144,Snacks
+Lettuce - Boston Bib,2.0,906,77 Boyd Circle,Lazzy,6/3/2023,145,Beverages
+"Lemonade - Strawberry, 591 Ml",3.42,994,5 Clarendon Point,Npath,11/24/2023,146,Candy
+Coffee Cup 16oz Foam,1.42,467,11 Orin Alley,Shufflebeat,8/26/2022,147,Candy
+Puree - Mocha,3.33,649,2724 Browning Point,Rhyloo,10/12/2022,148,Beverages
+Wood Chips - Regular,4.51,700,305 Bunting Way,Youopia,6/17/2023,149,Snacks
+Chicken - Whole Fryers,9.06,790,079 Shopko Place,Meembee,2/11/2023,150,Candy
+Cookies Almond Hazelnut,5.28,304,827 Truax Parkway,Fliptune,4/26/2023,151,Candy
+"Mushroom - Enoki, Dry",5.63,341,186 Atwood Point,Cogibox,7/10/2023,152,Candy
+Kaffir Lime Leaves,1.54,127,89 Bartelt Alley,Dabshots,12/18/2023,153,Candy
+Couscous,7.14,505,450 Merrick Terrace,Tazz,4/22/2022,154,Snacks
+"Bread - Pumpernickle, Rounds",4.01,276,4593 Memorial Center,Skyvu,3/28/2023,155,Snacks
+Nantucket - Pomegranate Pear,8.95,837,98 Mifflin Place,Yodo,2/12/2022,156,Candy
+Rabbit - Whole,9.06,880,0050 Pepper Wood Place,Trudeo,1/3/2022,157,Beverages
+"Jam - Blackberry, 20 Ml Jar",9.8,765,63 Pond Lane,Rhynoodle,3/13/2022,158,Beverages
+Contreau,7.86,210,8176 Granby Point,Quamba,10/10/2022,159,Beverages
+Chips Potato Salt Vinegar 43g,6.32,790,2 Comanche Place,Browsecat,12/30/2023,160,Snacks
+Wine - Gato Negro Cabernet,9.93,887,0 Stoughton Avenue,Skipstorm,4/5/2023,161,Beverages
+Cheese - St. Andre,7.5,896,5034 American Ash Drive,Aimbu,12/12/2023,162,Candy
+Sprouts - Peppercress,5.04,31,899 Maywood Way,Gabtune,10/26/2023,163,Snacks
+"Croissant, Raw - Mini",2.04,512,7283 Oriole Parkway,Fivespan,2/2/2022,164,Snacks
+"Soup - French Onion, Dry",1.86,98,8 Onsgard Plaza,Midel,7/27/2022,165,Snacks
+"Chilli Paste, Sambal Oelek",9.05,768,9 North Lane,Babbleblab,5/13/2022,166,Candy
+Cheese - St. Andre,4.51,627,84 Cottonwood Trail,Cogilith,3/21/2022,167,Snacks
+Mushroom - Lg - Cello,4.2,417,26297 Thompson Lane,Feedfish,4/21/2022,168,Candy
+Lettuce - Romaine,3.14,646,941 Rieder Avenue,Devshare,7/8/2023,169,Snacks
+Pails With Lids,8.11,449,27714 Di Loreto Way,Ntags,5/13/2022,170,Snacks
+Ecolab - Lime - A - Way 4/4 L,2.28,817,0 Magdeline Point,Blogtags,2/13/2022,171,Candy
+Magnotta Bel Paese Red,6.27,850,31 Longview Parkway,Kare,7/22/2023,172,Snacks
+"Wine - Red, Wolf Blass, Yellow",2.16,371,9065 Homewood Junction,Eayo,9/22/2022,173,Snacks
+Extract - Almond,2.24,665,64188 Shoshone Lane,Youopia,5/9/2023,174,Candy
+Mussels - Cultivated,4.69,352,52 Pleasure Way,Oloo,1/11/2023,175,Candy
+Pizza Pizza Dough,2.13,636,0 Sauthoff Court,Tagpad,11/25/2023,176,Snacks
+Spinach - Spinach Leaf,3.72,754,41 Helena Drive,Vitz,10/6/2023,177,Candy
+Squid - Tubes / Tenticles 10/20,6.55,397,56064 Eastwood Trail,Yakitri,9/19/2023,178,Beverages
+"Pasta - Penne, Lisce, Dry",4.57,887,2250 Buena Vista Junction,Avavee,10/8/2022,179,Beverages
+"Beef - Ground, Extra Lean, Fresh",9.65,219,83880 Parkside Plaza,Devcast,10/29/2023,180,Snacks
+Beef - Sushi Flat Iron Steak,4.42,770,01614 Dovetail Park,Nlounge,5/8/2023,181,Snacks
+Wine - Merlot Vina Carmen,2.34,396,362 Havey Terrace,Oyoba,7/5/2023,182,Beverages
+Tea - Apple Green Tea,2.2,524,28359 Iowa Terrace,Wikivu,7/2/2022,183,Candy
+Versatainer Nc - 8288,4.95,32,55430 Lakewood Street,Twimm,12/14/2023,184,Snacks
+Jolt Cola - Red Eye,5.84,538,591 Columbus Crossing,Quatz,1/10/2023,185,Beverages
+Carbonated Water - Lemon Lime,1.11,37,35905 South Park,Gabvine,7/31/2023,186,Snacks
+Corn Shoots,7.65,227,9 Haas Center,Npath,3/16/2023,187,Candy
+Sprouts - Peppercress,2.36,611,30 Mcguire Court,Thoughtworks,4/1/2023,188,Beverages
+Nutmeg - Ground,8.52,789,16 Clemons Hill,Fadeo,6/26/2022,189,Snacks
+Wine - Sicilia Igt Nero Avola,6.93,626,45 6th Drive,Minyx,7/16/2023,190,Snacks
+Ecolab Digiclean Mild Fm,1.35,804,82471 Aberg Circle,Vipe,7/19/2022,191,Snacks
+Wine - Tio Pepe Sherry Fino,8.77,426,178 Graceland Drive,Thoughtbeat,1/17/2022,192,Beverages
+Cake - Bande Of Fruit,2.32,391,60701 Coolidge Plaza,Mybuzz,6/20/2023,193,Candy
+Muffin - Blueberry Individual,6.88,44,40539 Hagan Court,Realpoint,2/5/2023,194,Candy
+Browning Caramel Glace,5.47,361,217 Susan Lane,Riffpedia,4/5/2022,195,Candy
+"Pasta - Fettuccine, Egg, Fresh",8.38,432,22 Southridge Circle,Skimia,8/27/2022,196,Beverages
+"Pasta - Lasagna, Dry",4.18,478,35509 Merry Alley,Devpulse,11/14/2022,197,Snacks
+Foil - Round Foil,1.03,533,816 Waxwing Park,Tagpad,11/23/2022,198,Candy
+Jolt Cola - Red Eye,8.71,450,33394 1st Way,Twinder,4/28/2022,199,Beverages
+Sloe Gin - Mcguinness,1.83,696,653 Miller Way,Zoovu,7/17/2022,200,Candy
+Turnip - Wax,6.57,357,22295 Alpine Center,Brainverse,10/30/2023,201,Beverages
+"Sauce - Black Current, Dry Mix",6.61,288,835 Russell Drive,Buzzshare,2/11/2022,202,Beverages
+Rabbit - Saddles,8.16,401,6652 La Follette Terrace,Zoovu,2/15/2023,203,Candy
+Muffin Batt - Choc Chk,4.54,279,594 Kipling Hill,Linktype,11/5/2022,204,Candy
+"Pasta - Penne Primavera, Single",5.59,433,09 Forster Circle,Gigaclub,8/23/2023,205,Candy
+Gelatine Powder,6.42,481,5 Bobwhite Trail,Quatz,4/21/2022,206,Candy
+"Pepper - Chipotle, Canned",8.88,810,63 Lotheville Road,Skajo,10/1/2022,207,Beverages
+Trueblue - Blueberry,1.84,660,9 Graceland Circle,Tagfeed,11/30/2022,208,Beverages
+"Turnip - White, Organic",7.73,65,606 Village Point,Oyope,3/7/2022,209,Snacks
+"Crab - Back Fin Meat, Canned",1.19,87,97813 Johnson Drive,Zoombox,3/21/2023,210,Snacks
+Chicken Thigh - Bone Out,4.0,844,4801 Kenwood Parkway,Browsezoom,6/13/2023,211,Beverages
+"Octopus - Baby, Cleaned",8.82,252,66 4th Terrace,Flashspan,10/3/2022,212,Beverages
+Broom Handle,3.52,656,516 Cherokee Street,Shuffledrive,5/5/2022,213,Candy
+"Mop Head - Cotton, 24 Oz",7.77,693,3 Monica Pass,Skimia,3/28/2023,214,Candy
+Compound - Pear,1.55,115,70 Debs Crossing,Flashdog,9/1/2022,215,Candy
+Beef - Tender Tips,1.75,174,129 Annamark Alley,Zoovu,9/20/2022,216,Beverages
+Cactus Pads,6.38,413,3140 David Point,Jayo,1/12/2022,217,Snacks
+"Roe - Lump Fish, Black",7.9,566,9 Monica Parkway,Innojam,10/29/2022,218,Beverages
+Creme De Menthe Green,4.73,936,4584 Vera Parkway,Shuffledrive,11/16/2023,219,Beverages
+Buffalo - Tenderloin,7.19,813,1078 Oak Trail,Geba,9/21/2022,220,Candy
+Appetizer - Chicken Satay,8.65,392,811 Vernon Junction,Feednation,12/13/2023,221,Candy
+Trout - Smoked,8.02,234,3 Bartillon Terrace,Rhynoodle,6/21/2022,222,Beverages
+Vol Au Vents,4.86,202,07826 Rowland Street,Yamia,6/15/2022,223,Snacks
+Capers - Ox Eye Daisy,9.02,62,723 Lotheville Lane,Quire,10/14/2023,224,Beverages
+"Chocolate - Milk, Callets",9.93,201,5195 Cascade Terrace,Browseblab,9/3/2023,225,Snacks
+Wine - Stoneliegh Sauvignon,9.07,329,8770 Colorado Terrace,Fliptune,6/20/2023,226,Snacks
+"Peas - Pigeon, Dry",5.03,921,49095 Nelson Crossing,Topdrive,6/7/2023,227,Beverages
+Steampan - Half Size Shallow,6.2,968,645 Moose Parkway,Demivee,5/30/2022,228,Beverages
+"Tart Shells - Barquettes, Savory",1.61,81,65716 Orin Center,Skibox,11/24/2023,229,Snacks
+Flower - Commercial Bronze,1.92,971,07723 Carpenter Plaza,Wikido,4/29/2022,230,Candy
+Straws - Cocktale,7.86,139,3616 Delladonna Plaza,Dablist,8/31/2023,231,Candy
+Oil - Shortening - All - Purpose,8.08,516,881 Harbort Terrace,Izio,7/5/2022,232,Beverages
+"Stock - Chicken, White",4.99,706,8940 Jenna Terrace,Rhycero,2/15/2022,233,Beverages
+Bread - Malt,5.07,616,9491 1st Drive,Shufflester,2/12/2022,234,Candy
+Sauce Tomato Pouch,6.3,815,09362 Riverside Street,Zazio,4/29/2022,235,Candy
+Danishes - Mini Cheese,6.88,338,49085 Express Drive,Tagchat,9/9/2023,236,Candy
+Silicone Paper 16.5x24,9.3,247,0939 Muir Avenue,Feedbug,1/15/2023,237,Snacks
+Chocolate - Semi Sweet,7.16,265,292 Morningstar Center,Pixonyx,11/9/2023,238,Candy
+Ketchup - Tomato,5.1,83,8687 Bunker Hill Trail,Roodel,6/14/2023,239,Snacks
+"Pepper - Julienne, Frozen",7.37,735,8 Upham Crossing,Meembee,6/29/2023,240,Snacks
+Wine - Duboeuf Beaujolais,6.06,109,9 Grover Junction,Lajo,7/2/2023,241,Snacks
+Chinese Foods - Plain Fried Rice,8.62,791,25638 Eliot Street,Camimbo,3/25/2023,242,Beverages
+Salami - Genova,4.79,684,66876 Kim Alley,Omba,8/9/2022,243,Candy
+Table Cloth 53x53 White,8.58,7,758 Hallows Center,Photojam,1/6/2022,244,Candy
+Butcher Twine 4r,2.94,343,2368 Jay Point,Jaxbean,9/20/2023,245,Candy
+Cod - Fillets,3.95,316,20146 Jenna Circle,Janyx,12/20/2023,246,Beverages
+Calypso - Lemonade,1.58,882,39 Caliangt Alley,Eadel,11/12/2022,247,Snacks
+Initation Crab Meat,2.18,109,9497 Spohn Drive,Yakidoo,11/13/2023,248,Candy
+Lettuce - California Mix,6.94,344,99460 Gale Center,Gabspot,2/9/2022,249,Snacks
+Salmon - Fillets,1.48,798,9 Nancy Park,Miboo,12/8/2023,250,Snacks
+Kellogs All Bran Bars,9.4,368,6 Banding Hill,Gevee,7/29/2023,251,Candy
+"Pail - 15l White, With Handle",4.87,928,2 Kenwood Parkway,Kare,4/6/2022,252,Candy
+Vol Au Vents,6.78,919,5920 Golf View Plaza,Dazzlesphere,2/10/2022,253,Beverages
+Fork - Plastic,1.92,449,59891 Mcbride Junction,Zooveo,8/26/2022,254,Snacks
+Chivas Regal - 12 Year Old,6.25,585,68 Fallview Avenue,Vidoo,12/13/2023,255,Beverages
+Capers - Ox Eye Daisy,2.2,263,2 Anniversary Point,Shufflester,9/9/2023,256,Beverages
+Nantucket - Pomegranate Pear,2.41,952,6799 Jenna Circle,Browsebug,2/23/2022,257,Beverages
+Initation Crab Meat,9.04,971,17 Golf Alley,Edgeclub,10/2/2022,258,Candy
+Graham Cracker Mix,8.74,925,220 Superior Drive,Livetube,5/19/2022,259,Candy
+Sobe - Lizard Fuel,7.37,794,1674 Huxley Alley,Thoughtstorm,9/27/2023,260,Beverages
+Gatorade - Lemon Lime,6.31,455,74252 3rd Lane,Yodel,1/7/2022,261,Beverages
+Tea - Apple Green Tea,7.97,768,39782 Portage Terrace,Meejo,11/8/2023,262,Snacks
+"Mushroom - Shitake, Fresh",3.19,592,2298 Northwestern Circle,Devcast,7/18/2023,263,Snacks
+Chocolate - Dark,5.33,516,09 Independence Trail,Linklinks,10/14/2022,264,Beverages
+Galliano,3.23,82,562 Arkansas Place,Demivee,5/26/2023,265,Snacks
+Apricots - Dried,2.96,11,71510 Del Mar Plaza,Buzzbean,8/6/2022,266,Snacks
+Pastry - Choclate Baked,4.14,42,914 Bunker Hill Pass,Jabberstorm,4/4/2022,267,Beverages
+Cheese - Bakers Cream Cheese,6.16,904,2 Loomis Plaza,Browsezoom,7/12/2022,268,Snacks
+Chicken - White Meat With Tender,6.51,191,09010 Troy Lane,Meevee,4/18/2023,269,Candy
+"Veal - Inside, Choice",2.93,768,02 Judy Place,Twitterbeat,12/7/2022,270,Candy
+"Salmon - Atlantic, Fresh, Whole",5.94,612,979 Surrey Junction,Livetube,8/21/2022,271,Beverages
+Plasticspoonblack,8.07,753,7 Gale Park,Lazz,8/7/2023,272,Candy
+"Beef - Cooked, Corned",5.2,974,4 Bluejay Hill,Skyble,3/4/2023,273,Snacks
+Calypso - Pineapple Passion,6.74,655,711 Holmberg Street,Browsebug,4/16/2023,274,Candy
+Rabbit - Whole,9.34,454,445 Crowley Drive,Dabfeed,11/27/2022,275,Candy
+Sole - Fillet,8.92,422,9 Sage Street,Linklinks,4/27/2023,276,Beverages
+Hinge W Undercut,4.31,628,4904 Starling Street,Yombu,3/23/2022,277,Snacks
+Wine - Chateau Bonnet,6.13,19,480 Rockefeller Hill,Twitterlist,9/29/2022,278,Candy
+Wine - Pinot Noir Pond Haddock,9.09,884,0 Manley Point,Quatz,10/26/2023,279,Beverages
+Wine - Prosecco Valdobienne,7.45,206,8 Sherman Pass,Camido,5/21/2022,280,Candy
+"Pasta - Lasagna Noodle, Frozen",1.15,734,4 Dexter Pass,Eidel,12/10/2022,281,Beverages
+Container Clear 8 Oz,9.35,50,9 Grasskamp Place,Thoughtblab,12/29/2023,282,Snacks
+Tea - Vanilla Chai,6.74,899,5 Thompson Pass,Brainlounge,10/2/2022,283,Snacks
+Ginger - Crystalized,2.29,981,559 Morrow Trail,Skimia,1/9/2022,284,Snacks
+Bagel - Whole White Sesame,6.84,661,1082 Hollow Ridge Hill,Yakidoo,9/25/2023,285,Beverages
+Cinnamon Rolls,3.81,921,2691 Hayes Parkway,Thoughtbridge,8/23/2023,286,Candy
+"Pasta - Gnocchi, Potato",5.08,946,343 Sunnyside Circle,Browsezoom,5/13/2022,287,Candy
+Wanton Wrap,4.02,795,1589 Chive Trail,Kanoodle,3/17/2023,288,Snacks
+"Pasta - Fettuccine, Egg, Fresh",8.42,980,75 Spohn Terrace,Blognation,6/1/2022,289,Candy
+Turnip - White,8.52,934,50632 Memorial Alley,Yombu,4/2/2022,290,Snacks
+Frangelico,4.82,290,0 Marquette Circle,Ainyx,1/6/2023,291,Beverages
+"Beef - Roasted, Cooked",4.51,380,799 Birchwood Way,Oozz,8/27/2022,292,Snacks
+Tomato - Tricolor Cherry,2.15,573,627 Westend Plaza,Tanoodle,12/9/2023,293,Candy
+Beef - Tender Tips,9.03,652,555 Reindahl Road,Thoughtblab,12/21/2022,294,Snacks
+"Crab - Dungeness, Whole",4.11,463,74276 Atwood Plaza,Plambee,3/12/2023,295,Snacks
+"Doilies - 12, Paper",1.73,858,4 Larry Way,Skimia,1/26/2022,296,Beverages
+"Coconut - Creamed, Pure",1.99,127,271 Lakewood Alley,Bluejam,4/28/2022,297,Beverages
+Carrots - Jumbo,7.4,647,81 4th Circle,Yambee,1/4/2022,298,Snacks
+Salt - Sea,1.16,964,02 2nd Junction,Kwideo,9/20/2023,299,Candy
+Oyster - In Shell,2.66,150,3397 Crownhardt Point,Edgeblab,11/19/2023,300,Beverages
+Cookies - Englishbay Wht,5.49,78,76251 Banding Circle,Blogpad,10/16/2023,301,Beverages
+Coconut Milk - Unsweetened,1.09,933,4830 Eastlawn Way,Aimbo,2/12/2023,302,Candy
+Lettuce - Radicchio,6.72,310,2 Del Sol Way,Feedmix,8/8/2023,303,Snacks
+"Beans - Kidney, Canned",6.5,69,08256 Armistice Alley,Skyvu,8/1/2022,304,Snacks
+Bread Roll Foccacia,9.18,680,1 Grover Street,Oyoyo,6/12/2022,305,Candy
+Chick Peas - Canned,2.26,88,69 Clemons Plaza,Quatz,3/3/2023,306,Candy
+Venison - Ground,3.3,710,2 Maple Wood Parkway,Skipfire,5/6/2023,307,Candy
+Pie Shell - 9,9.08,483,2 Pennsylvania Circle,Chatterpoint,11/8/2022,308,Candy
+"Wine - Red, Mosaic Zweigelt",6.25,502,71804 Nevada Pass,Kimia,10/22/2023,309,Beverages
+Glaze - Apricot,2.36,663,641 Portage Street,Youfeed,5/12/2022,310,Snacks
+"Lamb - Loin, Trimmed, Boneless",3.53,714,2262 Red Cloud Court,Skinix,6/16/2023,311,Snacks
+"Salsify, Organic",3.98,752,344 Londonderry Point,Jaxbean,5/3/2022,312,Candy
+Energy - Boo - Koo,3.22,418,623 Prairie Rose Crossing,Aimbo,2/9/2022,313,Snacks
+Arizona - Plum Green Tea,2.78,764,774 Reinke Plaza,Zoombeat,4/21/2022,314,Candy
+Pepper - Yellow Bell,2.95,362,013 Lerdahl Lane,Wordify,11/28/2022,315,Candy
+Muffin Mix - Morning Glory,7.13,307,36 Kensington Point,Mycat,1/6/2023,316,Beverages
+"Wine - Red, Cabernet Merlot",1.28,954,269 Vernon Drive,Oozz,11/3/2023,317,Snacks
+Soup - Campbells,3.14,631,8 Barby Way,Wikizz,12/24/2023,318,Beverages
+Icecream Bar - Del Monte,2.95,131,9654 Lien Way,Topiclounge,7/5/2023,319,Snacks
+Juice - Propel Sport,5.21,327,89 Blackbird Road,Oba,7/1/2023,320,Beverages
+Clams - Bay,6.34,166,48 Manitowish Circle,Livepath,5/31/2023,321,Beverages
+Cookies - Amaretto,4.03,81,170 Fulton Point,Devify,8/10/2022,322,Snacks
+Nantucket Cranberry Juice,6.39,87,0 Sherman Place,Kazio,3/21/2022,323,Beverages
+Cheese - St. Andre,5.7,189,9 Delladonna Way,Meeveo,8/9/2022,324,Beverages
+Coriander - Seed,6.66,120,67426 Lindbergh Crossing,Avamm,7/29/2022,325,Candy
+Wine - Stoneliegh Sauvignon,1.37,704,52 Bayside Terrace,Twimm,8/19/2022,326,Snacks
+Frangelico,4.02,395,5280 Fulton Drive,Riffpedia,8/27/2022,327,Snacks
+Cognac - Courvaisier,6.38,666,85 Northport Street,Oyoloo,11/5/2022,328,Beverages
+Puree - Kiwi,4.3,48,34 Dexter Court,Flipstorm,6/4/2023,329,Candy
+Pails With Lids,9.95,519,0 Dayton Pass,Dazzlesphere,4/6/2022,330,Beverages
+Quinoa,7.51,217,29 Warbler Avenue,Browsedrive,10/31/2023,331,Snacks
+Plate Foam Laminated 9in Blk,3.97,136,545 Raven Court,Dabfeed,2/3/2023,332,Candy
+Goldschalger,1.39,466,9 Nevada Point,Thoughtblab,9/15/2022,333,Candy
+Pie Box - Cello Window 2.5,4.51,416,74493 Darwin Lane,Thoughtstorm,12/9/2022,334,Candy
+Beef - Bresaola,8.84,917,85360 Vernon Place,Omba,3/29/2022,335,Beverages
+Leeks - Large,6.04,391,202 Esker Drive,Yakidoo,6/20/2022,336,Snacks
+Bread - Raisin Walnut Pull,4.18,462,9 Canary Junction,Zoomcast,1/9/2022,337,Snacks
+Wine - Cousino Macul Antiguas,5.0,692,1 Bellgrove Park,Zoovu,9/4/2022,338,Beverages
+Truffle Paste,3.45,446,2 Hudson Plaza,Youopia,8/18/2023,339,Candy
+Bandage - Flexible Neon,7.94,714,8 Eggendart Street,Quatz,7/28/2023,340,Snacks
+Pork - Ham Hocks - Smoked,4.63,844,28091 Rutledge Trail,Edgeclub,8/7/2023,341,Beverages
+Wine - Chianti Classico Riserva,2.88,648,75681 Fallview Drive,Jaxspan,8/1/2023,342,Snacks
+Cafe Royale,1.9,246,99902 Buell Plaza,Voonix,6/12/2023,343,Candy
+Hagen Daza - Dk Choocolate,9.55,13,314 South Avenue,Quinu,9/25/2023,344,Beverages
+Tomatoes - Cherry,7.45,808,3 Londonderry Way,Flashpoint,9/8/2023,345,Beverages
+"Roe - Lump Fish, Red",6.55,272,638 Bayside Point,Lazzy,1/12/2022,346,Candy
+Wine - Taylors Reserve,1.56,502,34 Golden Leaf Point,Aibox,10/2/2022,347,Candy
+Juice Peach Nectar,2.77,979,78830 Southridge Drive,Leexo,4/24/2023,348,Candy
+Hummus - Spread,8.13,323,1 Merchant Way,Jabberbean,12/14/2022,349,Snacks
+Flour - Masa De Harina Mexican,8.9,260,08134 Carioca Way,Roodel,12/30/2023,350,Beverages
+Table Cloth 54x54 Colour,9.97,515,312 Elmside Court,Devpoint,8/28/2023,351,Beverages
+Salmon Steak - Cohoe 6 Oz,2.05,493,4198 Harbort Park,Thoughtworks,7/23/2023,352,Candy
+Wine - Cotes Du Rhone Parallele,3.28,902,7895 Sutteridge Lane,Yakidoo,10/24/2023,353,Candy
+Mousse - Mango,7.24,123,58996 Cottonwood Terrace,Fliptune,1/31/2023,354,Candy
+Caviar - Salmon,8.12,306,37 Ruskin Drive,Kare,3/5/2023,355,Beverages
+"Soup - Campbells, Cream Of",5.4,140,3 Warrior Plaza,Yozio,8/15/2022,356,Snacks
+Lidsoupcont Rp12dn,5.72,869,925 Hauk Street,Buzzster,4/16/2023,357,Snacks
+Nantucket Apple Juice,3.51,734,55237 Mccormick Lane,Mydo,7/16/2023,358,Candy
+Rice - Sushi,9.83,899,9006 Sherman Street,Yambee,11/1/2022,359,Beverages
+Ice Cream Bar - Hageen Daz To,9.62,554,44 Scoville Hill,Skimia,12/30/2023,360,Snacks
+"Water, Tap",6.62,179,25 Boyd Parkway,Gigaclub,8/6/2022,361,Beverages
+Liquid Aminios Acid - Braggs,8.49,725,306 Marcy Road,Skyba,6/5/2023,362,Candy
+Cranberries - Frozen,1.37,428,926 Summer Ridge Point,Trudeo,4/14/2023,363,Candy
+Tomatoes - Hot House,9.47,600,759 Eggendart Circle,Jaxworks,2/21/2023,364,Beverages
+Pastry - Butterscotch Baked,9.95,447,9 Center Trail,Babbleopia,11/17/2023,365,Beverages
+Fruit Salad Deluxe,4.98,341,5413 Bonner Junction,Wikivu,10/19/2023,366,Snacks
+Muffin - Bran Ind Wrpd,4.42,925,01836 Lien Street,Zoozzy,10/1/2023,367,Snacks
+Steampan - Foil,2.97,270,94 7th Circle,Realcube,9/20/2022,368,Snacks
+Roe - Flying Fish,7.72,783,05 Crowley Drive,Realmix,12/26/2022,369,Beverages
+Flour - Strong Pizza,2.48,950,430 Oriole Street,Kwimbee,9/1/2023,370,Candy
+"Cheese - Woolwich Goat, Log",2.04,474,722 Heffernan Street,Agivu,11/25/2023,371,Beverages
+Sambuca Cream,6.12,857,852 Shasta Pass,Bubbletube,12/27/2023,372,Snacks
+Bread Base - Italian,4.28,415,2402 Valley Edge Drive,Youfeed,2/4/2023,373,Candy
+Pear - Asian,9.75,508,92 Gerald Park,Abata,12/24/2023,374,Beverages
+"Chilli Paste, Hot Sambal Oelek",9.75,831,7 Golf Course Park,Camimbo,12/30/2023,375,Beverages
+Potato - Sweet,1.99,296,0 Sachs Plaza,Dabtype,8/8/2022,376,Beverages
+Piping Jelly - All Colours,6.17,70,57426 Oakridge Alley,Linkbuzz,2/10/2022,377,Candy
+Wine - Sake,1.69,908,123 Tomscot Alley,Izio,4/17/2022,378,Snacks
+"Wine - White, Cooking",5.95,582,849 8th Road,Jabberstorm,3/1/2023,379,Beverages
+Mushroom - King Eryingii,2.88,942,30 Cherokee Center,Flipstorm,2/19/2022,380,Beverages
+Milk - Buttermilk,2.19,782,00 Lakewood Avenue,Topdrive,6/30/2022,381,Candy
+"Wine - White, French Cross",1.74,412,9068 Clove Street,Dynabox,3/24/2023,382,Snacks
+"Dill - Primerba, Paste",6.4,585,7762 Parkside Street,Eabox,3/25/2023,383,Candy
+Lotus Leaves,4.13,219,29 Dapin Center,Fivechat,12/12/2022,384,Snacks
+Cardamon Ground,1.99,915,44039 Sage Pass,Tanoodle,3/29/2022,385,Beverages
+Cheese - Goat With Herbs,8.11,702,4282 David Park,Mydo,4/23/2022,386,Beverages
+Garlic,5.42,292,19 Dunning Point,Blognation,9/9/2023,387,Candy
+Nantucket Orange Juice,8.6,762,40 Vidon Road,Devbug,5/9/2023,388,Snacks
+Pepper - Scotch Bonnet,9.61,778,720 Prentice Parkway,Npath,3/13/2022,389,Beverages
+Venison - Racks Frenched,2.46,199,9471 Birchwood Way,Buzzdog,9/15/2022,390,Snacks
+Beef - Texas Style Burger,4.79,422,115 Pepper Wood Park,Feedmix,8/24/2022,391,Snacks
+Beer - Pilsner Urquell,3.61,78,91 Nancy Place,Katz,8/23/2022,392,Beverages
+"Tart Shells - Savory, 3",9.34,107,600 Prairieview Place,Centidel,4/21/2023,393,Snacks
+Wine - Coteaux Du Tricastin Ac,1.78,601,8 Scoville Parkway,Buzzbean,4/29/2023,394,Beverages
+Graham Cracker Mix,8.22,330,19135 Farmco Lane,Mita,1/21/2023,395,Candy
+Pastry - Mini French Pastries,7.95,766,6486 Gulseth Road,Brainbox,9/24/2023,396,Candy
+Wine - Barossa Valley Estate,5.87,368,3629 Sommers Lane,Yodo,2/11/2022,397,Snacks
+Sauce - Soy Low Sodium - 3.87l,5.84,558,8 Ridgeway Trail,Midel,8/30/2023,398,Candy
+Pepper - Cubanelle,7.49,348,6 Riverside Park,Wordtune,6/13/2023,399,Snacks
+Dikon,6.24,164,3273 Corben Park,Flashdog,10/28/2023,400,Candy
+Cabbage - Red,8.92,113,28 Sherman Trail,Muxo,7/3/2023,401,Beverages
+Red Pepper Paste,2.15,679,0095 Sachtjen Lane,Vimbo,8/22/2023,402,Candy
+"Potatoes - Yukon Gold, 80 Ct",9.04,681,844 Ludington Avenue,Ntags,1/3/2023,403,Snacks
+Higashimaru Usukuchi Soy,8.51,292,22 Calypso Crossing,Meejo,2/22/2022,404,Candy
+Gherkin,6.39,402,206 Dixon Lane,Fivebridge,12/25/2022,405,Beverages
+"Chestnuts - Whole,canned",4.36,147,39 Moose Trail,Trudeo,4/3/2023,406,Snacks
+Pepper - Roasted Red,2.04,985,71 Bultman Plaza,Roodel,9/25/2023,407,Beverages
+Jerusalem Artichoke,7.73,698,68 Northport Road,Photospace,1/14/2023,408,Beverages
+Duck - Legs,2.26,624,2 Northport Park,Quatz,11/30/2022,409,Snacks
+Wasabi Paste,3.27,652,623 Killdeer Terrace,Dabvine,2/16/2023,410,Candy
+"Vermacelli - Sprinkles, Assorted",2.58,116,40018 Dexter Center,Yakidoo,5/5/2023,411,Candy
+"Iced Tea - Lemon, 460 Ml",8.31,539,59515 Eggendart Alley,Skipfire,8/1/2023,412,Snacks
+"Yogurt - Peach, 175 Gr",5.54,488,48520 Algoma Park,Tambee,7/9/2023,413,Beverages
+Fruit Mix - Light,1.11,207,448 Towne Park,Trilia,11/5/2022,414,Beverages
+Ostrich - Prime Cut,8.83,577,99 Golf Trail,Feednation,12/13/2022,415,Snacks
+"Wine - Red, Gamay Noir",4.76,731,2 Northview Plaza,Edgetag,10/9/2023,416,Snacks
+"Cherries - Maraschino,jar",1.69,197,35 Pleasure Drive,Aimbu,5/28/2023,417,Candy
+"Glass - Wine, Plastic, Clear 5 Oz",2.18,671,987 Westend Avenue,Mudo,5/23/2022,418,Candy
+"Squash - Pattypan, Yellow",7.63,315,449 Northridge Center,Skinix,12/10/2023,419,Beverages
+Bouq All Italian - Primerba,8.84,395,22 Memorial Lane,Jayo,2/19/2022,420,Candy
+Table Cloth 54x54 White,7.37,681,10189 Maple Wood Way,Yakidoo,4/28/2022,421,Beverages
+Coffee - Almond Amaretto,7.88,966,68405 Waywood Street,Tagpad,7/24/2022,422,Candy
+Wine - Cave Springs Dry Riesling,4.89,229,747 Spaight Lane,Tagfeed,5/29/2023,423,Snacks
+Table Cloth 54x72 Colour,8.22,596,3 2nd Street,Jaxworks,3/26/2023,424,Candy
+"Chilli Paste, Hot Sambal Oelek",9.28,317,55 Russell Crossing,Twinder,8/20/2023,425,Candy
+"Veal - Shank, Pieces",7.26,77,8 Garrison Drive,Einti,11/9/2022,426,Beverages
+Salad Dressing,3.06,264,0 Duke Alley,Katz,10/27/2023,427,Beverages
+"Lobster - Baby, Boiled",1.39,747,47100 Westerfield Point,Fiveclub,5/9/2023,428,Snacks
+Oven Mitt - 13 Inch,9.21,246,3887 Talisman Junction,Yotz,7/19/2023,429,Snacks
+Venison - Racks Frenched,3.74,694,60 Sommers Street,Voonte,3/20/2022,430,Snacks
+Soup - Campbells Chili Veg,7.11,611,05 East Plaza,Realblab,11/22/2022,431,Beverages
+Temperature Recording Station,7.85,398,5 Kim Crossing,Browseblab,6/14/2023,432,Candy
+Steampan - Lid For Half Size,4.77,169,8620 Burning Wood Lane,Vinder,8/12/2022,433,Candy
+"Beef - Bones, Cut - Up",6.91,505,9 Lakeland Crossing,Rooxo,4/30/2022,434,Beverages
+Bread - Raisin Walnut Pull,6.92,206,5 Prairieview Point,Jayo,1/22/2023,435,Beverages
+Dill Weed - Dry,1.79,203,0485 Eastwood Park,Flashpoint,5/22/2022,436,Candy
+Muffin Mix - Lemon Cranberry,1.73,964,20325 Bay Hill,Realbuzz,7/18/2023,437,Snacks
+Fenngreek Seed,2.21,189,8443 Merry Court,Feednation,4/22/2022,438,Beverages
+Smirnoff Green Apple Twist,9.86,653,550 Dunning Point,DabZ,6/25/2023,439,Candy
+"Soup - Campbells, Lentil",9.15,289,6 Cody Way,Myworks,3/1/2022,440,Beverages
+Creamers - 10%,4.59,305,0575 Packers Parkway,Thoughtstorm,3/18/2023,441,Beverages
+Cilantro / Coriander - Fresh,4.92,814,9079 Sachs Trail,Topicstorm,9/21/2023,442,Snacks
+Pate - Peppercorn,3.02,811,317 Havey Pass,Meeveo,8/14/2022,443,Beverages
+"Juice - Orange, 341 Ml",8.39,284,4 Mariners Cove Center,Ozu,4/4/2022,444,Candy
+Bag - Clear 7 Lb,7.84,671,65 Macpherson Place,Browsetype,2/2/2023,445,Candy
+Lamb - Whole Head Off,2.85,530,3 Thierer Drive,Zazio,1/18/2022,446,Candy
+Beef - Shank,5.57,385,9 Jana Lane,Vinte,11/30/2022,447,Snacks
+Island Oasis - Wildberry,4.96,309,8 Steensland Drive,Devcast,8/5/2023,448,Candy
+"Soup - Campbells, Lentil",7.49,429,7 Vidon Center,Eire,11/28/2023,449,Snacks
+Lemon Tarts,2.02,734,52832 Norway Maple Trail,Trupe,3/1/2022,450,Beverages
+Olives - Kalamata,6.68,451,6138 Mesta Point,Leenti,6/7/2023,451,Snacks
+Bread - Pita,5.54,127,12469 Dryden Junction,Zooxo,10/3/2022,452,Candy
+Horseradish - Prepared,5.26,29,03528 Oriole Lane,Youtags,9/21/2023,453,Snacks
+Puree - Mocha,7.14,608,7 Grayhawk Pass,Devpoint,11/7/2023,454,Snacks
+Soap - Hand Soap,5.47,400,9 Norway Maple Park,Meetz,10/20/2023,455,Beverages
+Boogies,5.81,925,0 Grover Center,Snaptags,5/3/2023,456,Candy
+Soup V8 Roasted Red Pepper,7.0,267,612 Muir Avenue,Thoughtsphere,5/14/2022,457,Snacks
+"Pasta - Tortellini, Fresh",6.78,581,642 Division Lane,Eidel,9/14/2022,458,Beverages
+"Rice Pilaf, Dry,package",7.7,60,576 Delladonna Junction,Youspan,1/28/2022,459,Candy
+"Wine - Red, Antinori Santa",8.75,212,62839 Susan Circle,Feedfire,11/24/2022,460,Beverages
+Wine - Manischewitz Concord,1.21,792,384 Elmside Way,Yakidoo,11/14/2022,461,Snacks
+Wine - Fume Blanc Fetzer,5.56,860,56 Valley Edge Plaza,Demivee,3/4/2023,462,Snacks
+"Turkey - Whole, Fresh",6.69,17,4 Spohn Drive,Thoughtblab,9/3/2022,463,Snacks
+Cookie Chocolate Chip With,4.67,974,750 Texas Junction,Zoomdog,3/4/2022,464,Beverages
+Wine - Fino Tio Pepe Gonzalez,5.0,226,279 Larry Pass,Zava,1/13/2022,465,Candy
+Wine - Winzer Krems Gruner,2.88,54,7020 Ridgeway Road,Kwilith,6/5/2023,466,Snacks
+Spinach - Frozen,3.21,363,56 Schurz Way,Zoomdog,1/21/2023,467,Candy
+Shrimp - Black Tiger 26/30,7.91,348,37930 Ludington Street,Dabfeed,5/16/2022,468,Candy
+Calypso - Pineapple Passion,2.22,475,3076 Acker Way,Plajo,5/9/2022,469,Snacks
+Table Cloth 91x91 Colour,5.81,752,10 Randy Terrace,Realmix,11/30/2023,470,Beverages
+Duck - Whole,1.68,122,505 Eagan Park,Mynte,3/26/2022,471,Snacks
+Soap - Pine Sol Floor Cleaner,2.05,91,45576 Toban Drive,Oloo,8/18/2023,472,Beverages
+Carbonated Water - Blackcherry,5.34,691,6711 Lakeland Crossing,Avamm,2/22/2022,473,Candy
+Pickerel - Fillets,4.57,750,4388 Reinke Road,Dablist,2/2/2022,474,Snacks
+Garlic - Peeled,7.84,351,425 Buhler Center,Yodo,9/11/2023,475,Beverages
+"Tart Shells - Barquettes, Savory",5.72,685,9240 Debs Point,Fanoodle,12/24/2023,476,Snacks
+"Coconut - Creamed, Pure",1.85,434,67398 Lukken Place,Gigabox,6/30/2023,477,Beverages
+Cucumber - English,3.93,295,2 Sachtjen Circle,Agimba,12/23/2022,478,Beverages
+Beef Tenderloin Aaa,6.9,573,57 Eastwood Drive,Rhynoodle,5/12/2022,479,Candy
+Roe - White Fish,4.36,897,03 Eagle Crest Point,Skajo,12/10/2022,480,Beverages
+Godiva White Chocolate,1.91,769,7 Forest Dale Pass,LiveZ,4/12/2022,481,Snacks
+Flour - Semolina,9.11,213,40245 6th Drive,Vipe,10/14/2022,482,Beverages
+Bagelers - Cinn / Brown,1.85,36,598 Oneill Park,Flashspan,11/14/2023,483,Candy
+"Lemonade - Black Cherry, 591 Ml",2.75,529,860 Ridgeway Street,Blogspan,6/21/2023,484,Beverages
+Olives - Morracan Dired,9.42,796,2779 Esch Point,Buzzdog,6/12/2023,485,Candy
+Wine - Chardonnay Mondavi,3.11,326,27016 Thompson Street,Avaveo,3/1/2023,486,Snacks
+Shiro Miso,8.06,208,2669 Bunker Hill Plaza,Shuffletag,1/10/2022,487,Snacks
+Prunes - Pitted,6.47,330,1814 Melody Hill,Jaxworks,12/28/2023,488,Beverages
+Wine - Clavet Saint Emilion,4.08,467,81205 Carberry Pass,Skinder,3/21/2023,489,Beverages
+"Bread - Rolls, Rye",9.44,180,35391 Elgar Center,Zoonder,5/30/2023,490,Candy
+Magnotta - Bel Paese White,1.8,239,39570 Quincy Point,Yata,10/22/2023,491,Candy
+Scampi Tail,1.04,920,788 Donald Park,Mudo,1/31/2022,492,Beverages
+Mace,6.97,56,1793 Paget Avenue,Twimbo,3/24/2022,493,Beverages
+Strawberries,8.17,315,7681 Sutherland Pass,Fivespan,9/26/2023,494,Beverages
+Soup Campbells - Tomato Bisque,7.65,665,33402 Oak Valley Park,Skidoo,5/19/2023,495,Beverages
+Onions - Red Pearl,2.79,280,64014 Hooker Junction,Nlounge,8/9/2022,496,Candy
+Tea - Lemon Scented,2.84,762,13 Jenifer Drive,Tazz,12/11/2023,497,Snacks
+Mudslide,7.29,711,2866 School Lane,Eimbee,8/30/2023,498,Candy
+Cheese - Goat With Herbs,3.6,207,24 Arizona Trail,Jabberstorm,7/21/2022,499,Beverages
+Cheese Cloth No 100,2.45,732,12571 Pond Drive,Twiyo,6/2/2023,500,Candy
+Cabbage Roll,4.01,462,76632 Dennis Circle,Bubblemix,11/7/2023,501,Candy
+"Veal - Leg, Provimi - 50 Lb Max",3.12,173,119 Glacier Hill Hill,Jayo,7/22/2023,502,Snacks
+Sugar - Crumb,5.17,645,839 Barby Pass,Aimbu,3/14/2023,503,Snacks
+Tomato - Peeled Italian Canned,5.3,706,356 Evergreen Place,Trupe,10/17/2022,504,Snacks
+Gelatine Powder,6.51,28,816 Sheridan Lane,Mudo,2/24/2022,505,Candy
+"Soup - Campbells, Beef Barley",4.72,980,76 Fallview Point,Eadel,1/25/2022,506,Candy
+Veal - Provimi Inside,5.1,801,0541 Hoffman Place,Blognation,12/27/2022,507,Candy
+Soap - Hand Soap,5.95,994,698 Delaware Way,Cogibox,10/8/2023,508,Candy
+Neckerchief Blck,9.5,841,72 Blackbird Crossing,Browsezoom,11/17/2022,509,Candy
+Jolt Cola - Electric Blue,9.53,849,9676 Fair Oaks Parkway,Browsedrive,2/17/2022,510,Candy
+Lotus Rootlets - Canned,2.12,384,07 Lindbergh Way,Divanoodle,3/27/2023,511,Snacks
+Kellogs All Bran Bars,7.69,277,6681 Nova Plaza,Tavu,11/28/2023,512,Candy
+Mackerel Whole Fresh,7.05,504,6864 Upham Place,Jaloo,2/16/2022,513,Beverages
+Octopus,1.04,765,54 Rusk Pass,Twitterbeat,6/4/2023,514,Candy
+Soup - Cream Of Potato / Leek,9.47,0,7399 Susan Way,Kwimbee,7/10/2023,515,Snacks
+"Pasta - Detalini, White, Fresh",1.33,237,3 Ridgeview Street,Voomm,7/24/2023,516,Snacks
+Muffin Carrot - Individual,3.2,990,152 Victoria Parkway,Riffpath,9/15/2023,517,Beverages
+Cabbage - Red,9.34,719,5152 Bobwhite Terrace,Voolia,11/22/2022,518,Snacks
+Pie Filling - Cherry,9.15,236,233 Hauk Place,Centimia,10/15/2023,519,Candy
+Wine - Touraine Azay - Le - Rideau,6.31,743,7 Kings Court,Realmix,9/7/2022,520,Candy
+"Lettuce - Mini Greens, Whole",6.15,957,46 Stang Road,DabZ,8/19/2022,521,Beverages
+Pie Filling - Cherry,6.01,658,2426 Blackbird Terrace,Aimbu,9/3/2023,522,Snacks
+Wine - Ej Gallo Sonoma,5.36,210,30 Barby Way,Photolist,10/2/2023,523,Candy
+Lemon Tarts,8.34,269,169 Eagan Avenue,Innotype,2/14/2022,524,Snacks
+Beer - Corona,5.6,113,26 Packers Crossing,Ooba,6/21/2022,525,Beverages
+"Pepper - Black, Crushed",5.54,237,98 Burning Wood Lane,Dazzlesphere,1/11/2022,526,Snacks
+"Lemonade - Strawberry, 591 Ml",4.84,924,188 Ohio Trail,Fliptune,8/5/2022,527,Beverages
+"Oil - Truffle, White",3.37,160,29 Brickson Park Court,Yakitri,8/16/2022,528,Beverages
+Compound - Passion Fruit,6.89,39,0771 Loomis Crossing,Flashpoint,2/27/2022,529,Candy
+Lumpfish Black,4.19,121,937 East Street,Skynoodle,10/26/2022,530,Snacks
+Flower - Daisies,7.06,167,1 Maple Wood Avenue,Thoughtblab,9/24/2023,531,Snacks
+"Mushroom - Trumpet, Dry",3.69,603,6 Scoville Crossing,Jabbersphere,11/23/2022,532,Beverages
+"Corn - Cream, Canned",3.99,189,36 Johnson Park,Brightbean,12/7/2022,533,Candy
+French Pastry - Mini Chocolate,9.26,961,5 Jenifer Center,Linklinks,6/23/2023,534,Snacks
+Bagelers - Cinn / Brown Sugar,4.08,48,1007 Saint Paul Avenue,Livetube,2/18/2022,535,Snacks
+Cheese Cloth No 60,1.35,105,42388 Vidon Pass,Jabbercube,10/24/2022,536,Beverages
+Cheese - Fontina,9.64,133,786 Kedzie Point,Kwideo,10/13/2022,537,Snacks
+"Mushroom - Shitake, Fresh",4.94,960,40 Nelson Court,Oloo,1/30/2022,538,Snacks
+"Rum - Light, Captain Morgan",9.93,275,6 Charing Cross Road,Skippad,1/18/2023,539,Snacks
+Wine - Alicanca Vinho Verde,9.9,312,94461 Fisk Center,Tekfly,5/3/2022,540,Candy
+Pepperoni Slices,9.14,782,2297 Shoshone Street,Devpoint,7/25/2023,541,Candy
+Nantucket Orange Juice,3.12,717,53899 Westridge Avenue,Chatterpoint,1/25/2023,542,Beverages
+Coffee Caramel Biscotti,9.04,963,4 Stephen Lane,Browsedrive,6/10/2022,543,Beverages
+Wine - Chateau Bonnet,2.39,638,80 Ridgeview Alley,Cogidoo,7/14/2023,544,Candy
+Island Oasis - Pina Colada,2.81,500,411 Onsgard Street,Abatz,6/9/2022,545,Candy
+Muffin Orange Individual,8.89,350,34736 Talisman Hill,Wikido,8/12/2023,546,Candy
+Tia Maria,7.29,397,661 Esker Park,Browsedrive,8/15/2023,547,Candy
+Bouillion - Fish,3.11,213,9 2nd Plaza,Edgeblab,12/6/2022,548,Candy
+"Wine - Saint - Bris 2002, Sauv",7.78,304,8 Cody Street,Oyondu,7/21/2022,549,Candy
+Beans - Fava Fresh,3.64,461,9 Daystar Circle,Bluejam,5/9/2023,550,Candy
+"Bread - Roll, Whole Wheat",1.41,878,54400 Buena Vista Avenue,Divape,5/26/2022,551,Snacks
+Ham - Proscuitto,2.75,775,931 Corscot Parkway,Meeveo,5/17/2022,552,Snacks
+Sauce - Thousand Island,2.25,664,81 Menomonie Park,Flipopia,2/19/2023,553,Beverages
+V8 Splash Strawberry Banana,7.35,532,2 Petterle Road,Gabcube,11/30/2023,554,Candy
+Plastic Arrow Stir Stick,8.76,652,1 6th Drive,Browseblab,8/17/2022,555,Snacks
+Daves Island Stinger,2.66,769,25 Londonderry Court,Vidoo,4/25/2022,556,Snacks
+Sambuca - Opal Nera,9.4,587,6132 Sullivan Point,Gigaclub,9/10/2022,557,Candy
+Dried Peach,2.18,98,48 Hoepker Junction,Topicstorm,10/24/2023,558,Snacks
+Capicola - Hot,8.25,766,1118 Luster Plaza,Jazzy,1/20/2023,559,Candy
+Grapefruit - Pink,7.53,573,170 Superior Terrace,Browsebug,2/21/2022,560,Candy
+Sprouts - Alfalfa,8.92,53,245 Fordem Way,Edgeclub,2/9/2023,561,Snacks
+"Yogurt - Strawberry, 175 Gr",8.8,987,8 Maple Trail,Yakitri,12/14/2023,562,Beverages
+Apple - Macintosh,8.34,785,2604 Eastlawn Crossing,Trilia,1/13/2023,563,Beverages
+"Tabasco Sauce, 2 Oz",1.1,675,55700 Novick Park,Fliptune,12/30/2023,564,Snacks
+Flower - Dish Garden,1.56,647,4 Mifflin Circle,Ailane,5/5/2022,565,Candy
+Ice Cream Bar - Hagen Daz,8.55,404,623 Old Gate Junction,Jayo,5/23/2022,566,Beverages
+Dried Cranberries,8.96,664,6253 Helena Court,LiveZ,7/30/2023,567,Snacks
+Pastry - Trippleberry Muffin - Mini,6.21,929,55 Weeping Birch Place,Jetwire,7/19/2022,568,Snacks
+Ham Black Forest,4.86,374,851 Bluestem Parkway,Tagchat,10/24/2022,569,Candy
+"Salmon - Atlantic, No Skin",8.28,748,67 Melrose Lane,Babbleset,6/16/2023,570,Snacks
+Ecolab - Mikroklene 4/4 L,3.79,341,6 Shasta Street,Lazz,7/21/2022,571,Candy
+Napkin Colour,3.71,161,5973 Dahle Pass,Livetube,7/8/2022,572,Snacks
+"Beef - Kindney, Whole",9.98,944,090 Shopko Junction,Cogilith,11/11/2022,573,Candy
+"Pail - 15l White, With Handle",2.82,859,3 Surrey Pass,Avaveo,4/25/2023,574,Snacks
+Lettuce - Lambs Mash,6.84,745,52 Glendale Place,Oba,6/10/2023,575,Snacks
+Lettuce - Red Leaf,7.91,867,95255 Porter Street,Yombu,12/10/2022,576,Snacks
+"Lemonade - Island Tea, 591 Ml",4.63,604,8 4th Hill,Meeveo,6/16/2023,577,Snacks
+Coriander - Ground,8.64,220,647 West Pass,Photojam,3/5/2022,578,Beverages
+Shrimp - Tiger 21/25,2.26,904,03 Comanche Plaza,Meezzy,1/6/2022,579,Beverages
+Compound - Raspberry,3.76,146,21 Warbler Crossing,Thoughtsphere,7/5/2022,580,Candy
+Herb Du Provence - Primerba,9.51,413,83576 Anzinger Point,Skiptube,4/29/2023,581,Beverages
+Extract - Lemon,5.93,781,29204 East Point,Topiclounge,8/15/2023,582,Snacks
+"Soup - Campbells, Creamy",3.01,784,2 Gateway Crossing,Avamm,7/31/2023,583,Candy
+Wine - Sawmill Creek Autumn,5.31,894,56 Eggendart Center,Tavu,8/11/2023,584,Snacks
+Chinese Foods - Pepper Beef,9.46,0,0 Coleman Terrace,Realbuzz,10/6/2022,585,Candy
+"Chicken - Leg, Boneless",4.38,114,536 Ruskin Hill,Kimia,12/31/2022,586,Snacks
+Truffle - Peelings,6.16,872,832 Declaration Terrace,JumpXS,7/16/2022,587,Beverages
+Sprouts - Bean,6.79,907,14 Novick Circle,Abatz,2/21/2022,588,Snacks
+Wine - Pinot Noir Latour,3.38,892,37 David Point,Podcat,12/15/2022,589,Snacks
+Sauce - Ranch Dressing,4.53,435,917 Buell Trail,Dynazzy,3/11/2023,590,Beverages
+Canadian Emmenthal,4.07,276,73 Springs Avenue,Skipfire,12/29/2023,591,Snacks
+Beef Cheek Fresh,2.15,117,0 Boyd Avenue,Kwilith,4/16/2023,592,Beverages
+Lamb - Whole Head Off,6.47,640,6 Fairview Trail,Jetwire,7/29/2023,593,Snacks
+Bonito Flakes - Toku Katsuo,3.46,688,17 Oxford Hill,Buzzster,7/24/2022,594,Candy
+"Wine - Magnotta, Merlot Sr Vqa",3.18,713,82 Forest Center,Dabshots,9/9/2022,595,Beverages
+Milk - 2% 250 Ml,7.77,390,66 Jana Hill,Katz,11/19/2022,596,Beverages
+"Bread - Rolls, Rye",1.85,865,17405 Hovde Terrace,Reallinks,1/3/2022,597,Beverages
+Aspic - Light,6.86,13,3894 American Ash Center,Photobug,9/19/2023,598,Candy
+Oil - Olive Bertolli,2.52,581,195 Charing Cross Crossing,Lajo,4/28/2022,599,Candy
+Island Oasis - Wildberry,1.58,852,6495 American Avenue,Ooba,5/16/2023,600,Beverages
+Rabbit - Whole,4.16,503,7 Cordelia Avenue,Rhycero,10/18/2023,601,Candy
+"Beef - Rib Roast, Cap On",7.91,489,711 Morningstar Pass,Kwimbee,2/11/2022,602,Candy
+"Arctic Char - Fresh, Whole",2.28,662,55 Lunder Lane,Zava,1/26/2022,603,Snacks
+Apple - Royal Gala,2.32,932,969 Hoffman Circle,Youbridge,3/28/2023,604,Snacks
+Jolt Cola - Electric Blue,1.51,453,4069 Schurz Point,Fiveclub,10/19/2022,605,Candy
+Prunes - Pitted,2.87,340,51 Basil Way,Quimba,9/17/2022,606,Beverages
+Monkfish Fresh - Skin Off,7.68,25,4349 Longview Road,Trunyx,7/24/2023,607,Beverages
+Scrubbie - Scotchbrite Hand Pad,5.22,808,86429 Mallard Trail,Realcube,10/10/2023,608,Snacks
+"Squash - Pattypan, Yellow",4.74,643,892 Tennessee Park,Rhynoodle,12/11/2022,609,Candy
+"Oranges - Navel, 72",9.87,327,42 Superior Road,Trudeo,12/6/2023,610,Beverages
+Milk - Chocolate 500ml,2.7,624,3236 Scoville Hill,Twitternation,11/8/2023,611,Beverages
+Trueblue - Blueberry Cranberry,3.43,527,315 Derek Parkway,Centimia,11/11/2022,612,Candy
+Bandage - Finger Cots,1.45,440,4 Eagan Terrace,Dazzlesphere,2/25/2023,613,Snacks
+Dc - Sakura Fu,7.8,731,901 Golf Course Place,Oyoba,5/27/2022,614,Candy
+Chicken - Livers,1.67,320,69 Milwaukee Trail,Photofeed,5/31/2022,615,Snacks
+Wine - Cave Springs Dry Riesling,5.12,132,83232 Hovde Road,Dynava,12/3/2022,616,Beverages
+Puree - Pear,3.67,681,9218 Florence Trail,Vipe,8/22/2022,617,Candy
+Lettuce Romaine Chopped,8.29,535,97686 Corben Trail,Camimbo,8/12/2023,618,Beverages
+Wine - Spumante Bambino White,9.96,893,47 Coleman Plaza,Aimbo,8/15/2022,619,Candy
+"Wine - Red, Black Opal Shiraz",1.67,222,3503 Clove Road,Photolist,2/27/2022,620,Beverages
+Salami - Genova,3.05,716,06 Talisman Avenue,Flipopia,4/26/2023,621,Beverages
+"Crab - Blue, Frozen",6.65,253,4 Manufacturers Pass,Twinder,8/6/2022,622,Beverages
+Wine - Chateauneuf Du Pape,9.59,287,22497 Pawling Park,Photolist,11/1/2022,623,Snacks
+Bananas,9.31,524,806 Butternut Terrace,Dablist,11/15/2022,624,Snacks
+Muffins - Assorted,1.57,653,66967 Banding Terrace,Gabtype,8/15/2023,625,Snacks
+Wine - Barbera Alba Doc 2001,1.15,304,36 Westerfield Alley,Realblab,5/24/2022,626,Candy
+"Coconut - Shredded, Sweet",6.39,379,21 Helena Alley,Photobean,3/4/2023,627,Beverages
+"Capon - Breast, Double, Wing On",3.67,448,0 Sunfield Pass,Kazu,11/7/2023,628,Beverages
+Duck - Whole,1.94,312,3854 Pennsylvania Avenue,Camimbo,3/3/2023,629,Snacks
+Basil - Seedlings Cookstown,8.94,557,5810 Cardinal Alley,Dabshots,1/25/2022,630,Candy
+Pernod,2.37,979,1 Johnson Hill,Jaxbean,12/11/2022,631,Candy
+Sauce - Balsamic Viniagrette,6.9,499,080 Grasskamp Park,Riffpedia,11/11/2023,632,Candy
+Hinge W Undercut,4.72,597,7790 Bluestem Court,Youspan,2/18/2022,633,Candy
+Beef - Top Sirloin - Aaa,6.82,610,586 Independence Point,Trudoo,9/16/2023,634,Snacks
+Soap - Hand Soap,2.96,990,16 Westerfield Parkway,Feedbug,8/18/2022,635,Snacks
+Soup - Campbellschix Stew,9.38,612,1 Boyd Circle,Realcube,9/14/2022,636,Beverages
+"Bread - Bagels, Mini",5.32,107,03 Daystar Center,Linklinks,10/26/2022,637,Candy
+Pizza Pizza Dough,5.79,524,44 Pine View Junction,Brainverse,8/31/2022,638,Beverages
+Bagel - Everything Presliced,8.7,30,4048 Transport Junction,Dablist,11/7/2023,639,Candy
+"Jam - Marmalade, Orange",1.55,415,8 Clemons Road,Jabbertype,7/19/2022,640,Snacks
+Chinese Foods - Plain Fried Rice,3.33,586,806 Golf View Way,Feednation,1/6/2023,641,Beverages
+Plasticforkblack,8.37,363,7156 Dixon Alley,Quatz,12/7/2022,642,Beverages
+Cookies Almond Hazelnut,5.5,243,3570 Marquette Court,Realbridge,9/9/2023,643,Snacks
+Sauerkraut,6.47,870,4538 Green Ridge Avenue,Browsetype,1/30/2023,644,Snacks
+"Tart Shells - Savory, 4",6.37,14,6966 Little Fleur Crossing,Npath,11/15/2022,645,Snacks
+Sea Bass - Fillets,9.82,718,72500 Manufacturers Lane,Skajo,1/23/2022,646,Beverages
+Turnip - White,2.4,94,3 Thierer Place,Tagfeed,8/25/2022,647,Snacks
+Pastry - French Mini Assorted,8.57,518,267 Shoshone Pass,Eare,12/2/2023,648,Candy
+Fond - Neutral,1.06,107,15438 Anthes Way,Fivespan,1/4/2022,649,Candy
+"Potatoes - Yukon Gold, 80 Ct",9.71,195,527 Jana Way,Avamm,1/20/2022,650,Candy
+Seedlings - Clamshell,1.99,660,51 Eastwood Circle,Pixope,1/5/2022,651,Beverages
+Cup - 4oz Translucent,7.01,804,4119 Hansons Point,Flipopia,3/7/2023,652,Snacks
+Vol Au Vents,8.71,965,7 Dunning Parkway,Zava,5/24/2022,653,Beverages
+Flour Dark Rye,8.35,850,77 Browning Plaza,Bubbletube,3/27/2022,654,Candy
+Tahini Paste,9.13,720,2 7th Avenue,Zooxo,12/1/2023,655,Beverages
+Graham Cracker Mix,8.76,819,7 Golf Parkway,Quatz,10/24/2022,656,Snacks
+Beef - Sushi Flat Iron Steak,5.67,5,002 Fordem Junction,Innojam,12/2/2022,657,Candy
+Foam Cup 6 Oz,4.37,476,6 Farwell Trail,Feedspan,10/31/2023,658,Snacks
+Beans - Wax,7.37,991,50 Marquette Plaza,Myworks,12/6/2022,659,Candy
+Crackers Cheez It,8.03,561,8625 Morningstar Trail,Brightbean,4/8/2022,660,Snacks
+Sprouts - Peppercress,6.8,391,5874 Coleman Avenue,Meedoo,7/2/2023,661,Beverages
+Jolt Cola,4.61,247,7785 Forster Parkway,BlogXS,2/22/2022,662,Candy
+Rabbit - Legs,4.54,171,9044 Walton Terrace,Dabjam,11/2/2023,663,Candy
+Beef - Top Butt,3.63,699,2195 Veith Avenue,Feedfire,3/2/2023,664,Candy
+Munchies Honey Sweet Trail Mix,7.27,910,11287 Victoria Plaza,Eabox,11/26/2022,665,Candy
+Salt - Table,1.12,360,760 Ronald Regan Point,Twinder,2/25/2023,666,Snacks
+Bread - Pain Au Liat X12,7.05,939,79 Hagan Crossing,Katz,10/29/2023,667,Candy
+Container - Hngd Cll Blk 7x7x3,7.55,77,0 Hagan Alley,Browsebug,7/9/2022,668,Snacks
+Cheese Cloth No 60,3.3,85,253 American Ash Hill,Meevee,4/15/2023,669,Beverages
+Lobak,9.43,874,4236 Ilene Center,Edgetag,6/2/2022,670,Snacks
+Cake Slab,9.71,888,2 Ruskin Circle,Mudo,6/13/2022,671,Candy
+Syrup - Monin - Granny Smith,8.56,490,345 Forest Alley,Tagchat,11/14/2023,672,Snacks
+"Water - Spring Water, 355 Ml",5.13,554,03 Bay Circle,Tagcat,3/1/2023,673,Candy
+Orange Roughy 6/8 Oz,8.89,1,80 Trailsway Pass,Leenti,12/16/2023,674,Snacks
+Broom - Angled,8.77,936,3 Washington Drive,Flipstorm,5/10/2023,675,Candy
+"Lid - 10,12,16 Oz",9.57,210,5651 Carpenter Park,Pixonyx,10/8/2022,676,Candy
+"Rum - Dark, Bacardi, Black",1.46,304,7 Eliot Crossing,Jaxbean,11/7/2022,677,Snacks
+Beef - Top Butt,4.77,864,1954 Rusk Plaza,Oba,2/18/2022,678,Candy
+"Cod - Salted, Boneless",3.46,405,9412 Stone Corner Road,Mynte,7/14/2023,679,Snacks
+Tobasco Sauce,4.23,775,7 Express Road,Layo,2/26/2022,680,Beverages
+The Pop Shoppe Pinapple,9.29,58,5098 Merrick Terrace,Realbuzz,9/17/2023,681,Beverages
+"Marsala - Sperone, Fine, D.o.c.",6.77,895,9 Dahle Road,Skinder,11/6/2023,682,Beverages
+Bread - Hamburger Buns,8.12,664,598 Northfield Parkway,Eire,7/19/2022,683,Candy
+Egg Patty Fried,6.56,664,307 Old Gate Point,Viva,6/6/2023,684,Candy
+Cheese - Brick With Onion,4.49,960,07 Aberg Pass,Mynte,7/18/2022,685,Beverages
+Cranberry Foccacia,6.44,426,486 Di Loreto Lane,Devbug,11/10/2022,686,Beverages
+Baking Powder,4.68,950,30262 Rusk Hill,Plambee,8/14/2023,687,Snacks
+Raspberries - Frozen,5.81,46,5 Starling Parkway,Skynoodle,10/21/2023,688,Beverages
+Wine - Prosecco Valdobienne,6.51,222,09 Nancy Drive,Realbridge,5/3/2022,689,Snacks
+Dates,5.42,276,308 Lakewood Alley,Meezzy,5/7/2022,690,Snacks
+Crackers - Soda / Saltins,1.34,362,3472 Shoshone Center,Voonte,12/27/2022,691,Snacks
+Grapes - Red,1.4,373,8365 Almo Hill,Fivechat,2/8/2023,692,Snacks
+Island Oasis - Banana Daiquiri,7.29,496,529 Service Road,Skyba,1/16/2022,693,Beverages
+Danishes - Mini Raspberry,5.17,20,90 3rd Junction,Realcube,11/20/2023,694,Candy
+Beans - French,5.3,417,45712 Fair Oaks Alley,Edgewire,12/7/2023,695,Snacks
+"Napkin - Cocktail,beige 2 - Ply",1.33,255,3 5th Junction,Yata,5/4/2022,696,Candy
+Chocolate Eclairs,9.37,997,343 Warner Hill,Voomm,6/8/2023,697,Snacks
+Broom Handle,4.05,810,1 Green Lane,Feedfire,5/25/2022,698,Snacks
+French Pastry - Mini Chocolate,9.16,6,425 Sycamore Parkway,Bubblemix,9/6/2023,699,Beverages
+Lamb Leg - Bone - In Nz,4.04,336,1999 Oakridge Park,Yakijo,12/6/2022,700,Candy
+Syrup - Monin - Blue Curacao,1.39,140,627 Ohio Terrace,Aimbu,11/19/2023,701,Beverages
+Glycerine,5.35,939,35657 North Parkway,DabZ,4/30/2022,702,Candy
+"Wine - White, Schroder And Schyl",2.3,341,9 Loomis Road,Browsetype,7/19/2022,703,Beverages
+Dome Lid Clear P92008h,9.02,773,740 Victoria Lane,Cogidoo,7/22/2023,704,Candy
+"Bread - Roll, Canadian Dinner",6.53,647,018 Del Mar Alley,Devpoint,3/6/2022,705,Candy
+Country Roll,3.04,514,495 Redwing Pass,Abata,5/9/2022,706,Beverages
+"Wine - White, Antinore Orvieto",1.99,152,116 Algoma Road,Centimia,3/20/2022,707,Candy
+Cactus Pads,5.2,921,5 Jana Place,Meeveo,5/25/2023,708,Candy
+Cream - 18%,7.67,127,08 Gateway Street,Yozio,2/27/2023,709,Beverages
+Broom - Corn,6.63,581,94351 Canary Terrace,Zoombox,3/18/2023,710,Candy
+Flavouring Vanilla Artificial,8.41,265,78 Debs Crossing,Thoughtstorm,1/15/2023,711,Beverages
+Bandage - Flexible Neon,8.13,516,3 Sundown Trail,Babbleset,11/23/2022,712,Beverages
+Cookies Almond Hazelnut,7.61,392,65 Ridgeview Point,Dablist,8/4/2022,713,Beverages
+Appetizer - Crab And Brie,5.17,842,0 Ridgeview Hill,Browsetype,6/12/2023,714,Snacks
+Mousse - Banana Chocolate,5.77,534,84 Hudson Terrace,Trudoo,2/6/2022,715,Beverages
+Bread Roll Foccacia,4.31,108,0 Ridgeview Drive,Edgewire,8/26/2023,716,Candy
+Kiwi,2.48,135,0 Glacier Hill Parkway,Muxo,8/20/2023,717,Beverages
+Ecolab - Mikroklene 4/4 L,8.7,568,52 Michigan Circle,Bubblebox,4/28/2022,718,Candy
+Pastry - Carrot Muffin - Mini,4.37,204,41 Anhalt Lane,Skyvu,1/21/2023,719,Beverages
+Cheese - Mozzarella,4.02,102,55 American Ash Avenue,Minyx,3/13/2023,720,Beverages
+Tea - Herbal Sweet Dreams,9.98,793,9005 Gale Street,Topicblab,8/1/2023,721,Snacks
+Cheese - Fontina,8.41,676,370 Golden Leaf Park,Meevee,5/14/2023,722,Beverages
+"Flour - Corn, Fine",8.91,625,441 Dexter Park,Talane,12/5/2022,723,Beverages
+Chocolate - Sugar Free Semi Choc,2.1,157,887 Northridge Road,Feednation,8/9/2022,724,Candy
+Oil - Shortening - All - Purpose,9.53,560,47 Forest Dale Park,Roodel,12/10/2022,725,Candy
+Versatainer Nc - 9388,4.41,250,94701 Anthes Terrace,Feedfire,11/3/2023,726,Beverages
+Soup - Campbells Mac N Cheese,2.73,104,7272 Stephen Place,Jazzy,7/15/2022,727,Snacks
+Bacardi Breezer - Strawberry,6.97,692,21 Bowman Road,Brainsphere,10/15/2023,728,Beverages
+Bread Crumbs - Panko,8.27,604,5257 Westport Park,Zoomzone,12/22/2022,729,Candy
+Island Oasis - Peach Daiquiri,7.44,822,16875 Graceland Terrace,Eabox,7/25/2022,730,Candy
+Wine - Charddonnay Errazuriz,8.75,422,7751 Green Ridge Hill,Realbuzz,5/28/2022,731,Candy
+Truffle - Peelings,3.55,184,7 Rockefeller Parkway,Kanoodle,11/19/2022,732,Snacks
+Chocolate - Milk,1.15,92,243 Darwin Way,Skaboo,1/6/2022,733,Beverages
+Grapefruit - Pink,3.47,80,095 Kenwood Terrace,Kamba,9/11/2023,734,Candy
+Wine - Champagne Brut Veuve,3.34,156,24063 Forest Run Place,Jabbertype,4/29/2022,735,Snacks
+Milk 2% 500 Ml,9.49,128,647 Schmedeman Hill,Wikizz,1/29/2022,736,Beverages
+Beef - Top Butt,1.95,238,4055 Daystar Place,Realmix,3/9/2022,737,Snacks
+Sauce - Salsa,8.72,722,0 Ridge Oak Crossing,Yabox,4/8/2023,738,Candy
+Soap - Pine Sol Floor Cleaner,1.2,587,116 Cody Park,Kwilith,3/28/2023,739,Snacks
+Wheat - Soft Kernal Of Wheat,5.04,714,4 Hanover Plaza,Browsebug,6/14/2023,740,Snacks
+"Shrimp - Baby, Cold Water",3.98,740,79486 Fair Oaks Place,Dynazzy,7/29/2023,741,Snacks
+Bread - Corn Muffaleta Onion,1.7,83,55337 Melvin Avenue,Tagpad,10/18/2023,742,Candy
+Fuji Apples,6.99,500,63926 Sachtjen Parkway,Meevee,12/3/2022,743,Candy
+Longos - Grilled Veg Sandwiches,4.66,888,91 Hoepker Avenue,Eadel,7/9/2022,744,Beverages
+Bread - English Muffin,1.02,360,3 Browning Pass,Riffwire,3/26/2022,745,Snacks
+Soup - Campbellschix Stew,7.49,447,83187 Forest Crossing,Quimba,3/11/2022,746,Beverages
+Tea - Herbal I Love Lemon,4.4,532,65 Lotheville Avenue,Kwimbee,6/26/2022,747,Beverages
+"Asparagus - White, Fresh",6.78,520,7 Hanson Court,Thoughtstorm,10/12/2022,748,Snacks
+Bread - Mini Hamburger Bun,2.99,956,51 4th Plaza,Abatz,3/4/2022,749,Candy
+Wine - Sawmill Creek Autumn,5.73,340,175 Milwaukee Avenue,Kaymbo,1/30/2023,750,Snacks
+Beer - Blue Light,8.59,661,5282 Spenser Crossing,Flashdog,1/18/2023,751,Candy
+Cookies - Fortune,9.39,168,290 Meadow Valley Street,Avavee,6/18/2022,752,Candy
+Beef - Ground Medium,5.29,193,67 Eliot Park,Ooba,7/22/2023,753,Snacks
+Cake - Miini Cheesecake Cherry,2.38,589,2021 Westport Way,Fadeo,1/29/2022,754,Snacks
+Potatoes - Yukon Gold 5 Oz,6.07,774,7948 Kinsman Hill,Linkbuzz,9/16/2023,755,Candy
+Cod - Black Whole Fillet,7.8,368,429 Petterle Trail,Centimia,5/20/2022,756,Snacks
+"Soup - Campbells, Cream Of",8.76,954,548 Corry Point,Ozu,8/6/2022,757,Candy
+"Stock - Chicken, White",3.53,248,6 Duke Avenue,Jatri,5/18/2022,758,Candy
+Potatoes - Idaho 80 Count,8.52,699,66 Marcy Park,Kwimbee,8/27/2023,759,Snacks
+Cleaner - Bleach,2.8,79,6 Monterey Point,Rhynyx,11/28/2022,760,Candy
+Carbonated Water - Strawberry,7.63,732,5 Ilene Way,Tazzy,9/7/2023,761,Snacks
+Containter - 3oz Microwave Rect.,3.99,871,0 Springs Parkway,Demizz,12/6/2022,762,Beverages
+"Pepper - Black, Whole",8.38,114,17487 Pennsylvania Alley,Babbleopia,6/10/2022,763,Beverages
+"Pepper - Black, Whole",1.27,817,9 Debra Road,Agivu,10/6/2022,764,Beverages
+Tomatoes - Grape,2.87,947,5664 Morningstar Hill,Mymm,5/3/2023,765,Beverages
+The Pop Shoppe - Black Cherry,7.13,727,7 Vidon Drive,Jabbercube,4/29/2022,766,Candy
+Chutney Sauce,2.43,824,9000 Rowland Street,Dazzlesphere,9/6/2023,767,Beverages
+Pimento - Canned,8.1,223,9 Kenwood Alley,Fanoodle,11/20/2023,768,Beverages
+Eggplant Oriental,3.2,570,9 Grayhawk Crossing,Realbridge,4/12/2023,769,Candy
+Snapple - Mango Maddness,9.69,812,92 Mitchell Plaza,Npath,8/8/2022,770,Beverages
+Cheese - Shred Cheddar / Mozza,5.66,381,7 Independence Park,Topicware,11/15/2022,771,Snacks
+Wine - Niagara Peninsula Vqa,7.41,952,83329 Weeping Birch Terrace,Livefish,10/13/2023,772,Candy
+"Quail - Eggs, Fresh",6.23,850,54944 Westridge Way,Vinte,1/18/2022,773,Snacks
+Lettuce - Lambs Mash,5.54,908,253 Waxwing Hill,Yata,4/1/2022,774,Snacks
+Beef - Cow Feet Split,1.54,129,768 Troy Point,Zoomdog,5/2/2022,775,Snacks
+Sobe - Cranberry Grapefruit,2.83,212,260 Sugar Park,Brainverse,6/10/2022,776,Candy
+Trueblue - Blueberry 12x473ml,3.4,162,97264 Lien Center,Tazzy,11/8/2023,777,Beverages
+Brandy - Bar,7.56,734,65 Bluestem Junction,Voomm,3/30/2023,778,Beverages
+Soup Campbells Beef With Veg,5.1,534,0 Bayside Center,Skiptube,9/8/2023,779,Snacks
+Celery,6.27,285,91101 American Ash Avenue,Skinder,12/6/2023,780,Candy
+Beer - Rickards Red,6.33,287,6293 Londonderry Road,Tagtune,9/11/2023,781,Beverages
+Noodles - Steamed Chow Mein,3.32,368,43999 Ronald Regan Lane,Yoveo,11/9/2023,782,Snacks
+Sproutsmustard Cress,6.96,699,728 Green Alley,Einti,10/31/2022,783,Candy
+Sausage - Meat,7.2,48,542 Corscot Crossing,Zoonoodle,2/24/2022,784,Snacks
+"Wine - Red, Antinori Santa",6.71,987,2727 Goodland Place,Skippad,10/27/2022,785,Snacks
+Miso Paste White,6.26,977,9 Westport Crossing,Abatz,6/20/2023,786,Candy
+"Tart Shells - Sweet, 4",6.05,459,99 Fair Oaks Point,Yamia,2/18/2022,787,Snacks
+Cheese - Oka,1.38,186,992 Lakewood Gardens Place,Meedoo,1/22/2022,788,Candy
+Wine - Zonnebloem Pinotage,5.04,674,00 Annamark Plaza,Yata,4/8/2023,789,Beverages
+Swordfish Loin Portions,2.5,84,0 Graceland Place,Skalith,6/9/2023,790,Candy
+"Crab - Claws, Snow 16 - 24",9.92,191,7 Nova Circle,Browsetype,12/18/2022,791,Snacks
+Pepper - Chili Powder,9.41,448,077 Manitowish Court,Oyope,12/18/2022,792,Snacks
+Truffle Cups - Red,4.93,285,9 Hoepker Park,Jetwire,5/7/2023,793,Candy
+Cornflakes,9.4,910,4 Shasta Junction,Blogpad,2/9/2023,794,Beverages
+"Wine - Magnotta - Red, Baco",8.18,418,750 Crescent Oaks Avenue,Jabbercube,8/24/2023,795,Candy
+Gelatine Powder,8.47,977,145 East Point,Roombo,3/21/2023,796,Beverages
+Bread - Hamburger Buns,9.5,140,7 Dapin Pass,Aimbu,4/6/2022,797,Candy
+Coffee Caramel Biscotti,3.86,291,5 Straubel Terrace,Thoughtsphere,12/9/2022,798,Snacks
+"Leeks - Baby, White",1.09,565,057 Buhler Center,Roomm,5/5/2023,799,Beverages
+"Chicken - White Meat, No Tender",9.62,686,765 Brentwood Terrace,Trunyx,5/20/2022,800,Candy
+Cleaner - Lime Away,8.8,86,9231 Loomis Court,Topicware,12/15/2022,801,Snacks
+Huck White Towels,4.71,620,11 Spohn Hill,Topdrive,1/20/2022,802,Candy
+Pepperoni Slices,6.95,245,804 Milwaukee Crossing,Livepath,9/17/2023,803,Beverages
+Foam Cup 6 Oz,2.57,268,153 Briar Crest Crossing,Roodel,7/15/2023,804,Candy
+Pastry - Trippleberry Muffin - Mini,5.79,785,26 Waxwing Alley,Quinu,7/23/2022,805,Snacks
+Sprouts - Alfalfa,7.34,352,69862 Dwight Pass,Ooba,3/4/2023,806,Snacks
+Godiva White Chocolate,2.68,66,588 Oak Circle,BlogXS,3/15/2022,807,Snacks
+Wine - Delicato Merlot,3.95,690,65 Holy Cross Alley,LiveZ,8/25/2023,808,Candy
+Nantucket Apple Juice,7.82,433,90567 Chive Way,Linklinks,10/9/2023,809,Snacks
+Bacardi Limon,8.27,223,69306 Lakewood Gardens Parkway,Youopia,11/6/2022,810,Candy
+Cake - French Pear Tart,3.58,765,737 Bellgrove Trail,Camido,8/15/2023,811,Candy
+Mustard - Pommery,1.44,131,13 Oak Valley Plaza,Meetz,2/17/2022,812,Snacks
+Chick Peas - Canned,6.05,183,69998 Leroy Alley,Trudeo,10/22/2023,813,Candy
+Wine - Periguita Fonseca,8.27,238,34827 Rieder Way,Brightdog,9/22/2023,814,Beverages
+Bread - Italian Sesame Poly,9.12,310,003 Weeping Birch Court,Thoughtblab,2/1/2022,815,Beverages
+Oven Mitts 17 Inch,5.98,67,1 Cordelia Street,Dynabox,7/20/2023,816,Candy
+Wine - George Duboeuf Rose,4.63,204,67580 Autumn Leaf Crossing,Oyoba,4/15/2023,817,Candy
+Lychee,3.94,720,904 Jenifer Hill,Quire,6/29/2022,818,Snacks
+"Lamb - Leg, Bone In",1.87,794,3 Golf View Way,Quatz,1/19/2022,819,Snacks
+Cookie Choc,4.76,718,70 Esker Street,Brainbox,1/11/2022,820,Beverages
+Onions - Red Pearl,3.96,219,289 Coleman Crossing,Fadeo,12/19/2023,821,Candy
+Oil - Cooking Spray,6.64,377,379 Bonner Way,Twinte,10/10/2022,822,Beverages
+Potatoes - Fingerling 4 Oz,5.35,122,6 Knutson Junction,Ooba,8/19/2022,823,Beverages
+Iced Tea Concentrate,1.85,647,7639 Marcy Junction,Demimbu,3/14/2023,824,Candy
+"Wine - Red, Marechal Foch",9.19,186,77 Mcbride Road,Skyble,5/21/2022,825,Beverages
+"Cheese - Mozzarella, Shredded",6.15,247,4 Prairie Rose Terrace,Yata,5/31/2023,826,Snacks
+Slt - Individual Portions,3.79,599,51 Oxford Way,Divape,12/20/2022,827,Snacks
+Longos - Cheese Tortellini,4.59,326,58 Merchant Lane,Buzzbean,11/7/2022,828,Candy
+Cheese - Gorgonzola,1.38,742,4 Old Gate Center,Katz,10/22/2023,829,Candy
+"Lamb - Loin, Trimmed, Boneless",6.48,116,1046 Dottie Drive,Dynava,8/12/2022,830,Snacks
+Breakfast Quesadillas,6.21,635,927 Talmadge Crossing,Latz,11/5/2023,831,Beverages
+"Pasta - Orzo, Dry",9.96,352,7410 David Trail,Quatz,6/7/2022,832,Beverages
+Mustard - Individual Pkg,1.13,61,38397 Laurel Road,Zoovu,3/12/2022,833,Beverages
+Magnotta Bel Paese Red,6.99,125,64075 Cherokee Court,Izio,1/31/2023,834,Candy
+Mussels - Frozen,3.22,348,46441 8th Hill,Demizz,6/12/2022,835,Snacks
+"Juice - V8, Tomato",4.36,173,1 Harbort Park,Vinder,4/4/2023,836,Beverages
+Pepper - Green,4.73,393,16 Lien Circle,Voonte,10/29/2022,837,Beverages
+Table Cloth 53x53 White,7.71,825,2538 Kenwood Drive,Dynava,2/10/2023,838,Snacks
+Honey - Comb,4.24,880,1 Fieldstone Terrace,Yodoo,7/7/2023,839,Snacks
+Sansho Powder,9.45,570,1145 Arkansas Terrace,Yakitri,6/3/2022,840,Candy
+Island Oasis - Magarita Mix,9.98,685,8 Kropf Street,Skidoo,6/20/2023,841,Beverages
+"Capon - Breast, Double, Wing On",1.24,267,74683 Melody Pass,Geba,7/12/2022,842,Snacks
+"Placemat - Scallop, White",3.65,340,772 Randy Point,Fadeo,5/15/2023,843,Snacks
+Fond - Neutral,4.45,476,2 Sage Pass,Shufflebeat,1/15/2023,844,Candy
+"Cake Circle, Paprus",6.25,526,0595 Kensington Road,Brainlounge,8/20/2023,845,Candy
+Dehydrated Kelp Kombo,8.37,172,96212 Debra Way,Voonix,8/4/2023,846,Snacks
+Bar Mix - Lime,4.04,939,54 West Court,Jetwire,11/13/2022,847,Candy
+Bread - Corn Muffaletta,7.85,136,8932 Fisk Park,Chatterpoint,8/21/2023,848,Snacks
+Plasticspoonblack,6.14,536,0 Banding Pass,Skimia,8/18/2023,849,Snacks
+Cheese - Mascarpone,5.63,131,92571 Grayhawk Junction,Chatterpoint,4/6/2023,850,Candy
+Juice - V8 Splash,6.5,101,5156 Memorial Way,Zoozzy,6/25/2023,851,Candy
+Salmon Steak - Cohoe 8 Oz,7.34,572,48 Spenser Point,Oloo,5/26/2023,852,Beverages
+Pork - European Side Bacon,4.61,92,4645 Morningstar Alley,Twitterlist,10/4/2022,853,Snacks
+Foil - Round Foil,2.69,728,4513 Hermina Street,Omba,7/4/2022,854,Candy
+"Wine - Red, Mosaic Zweigelt",8.75,203,8372 Mifflin Pass,Cogidoo,7/22/2023,855,Candy
+Cheese - Cheddarsliced,3.86,240,39 Buhler Street,Jaxbean,2/13/2022,856,Snacks
+The Pop Shoppe - Cream Soda,3.22,811,27 Corscot Avenue,Ntag,3/23/2023,857,Snacks
+Shiro Miso,4.77,354,2106 Nelson Hill,Oloo,3/14/2023,858,Beverages
+Yogurt - Plain,4.22,162,05986 Melody Drive,Zava,9/19/2023,859,Candy
+"Wine - White, Concha Y Toro",3.05,691,80 Buena Vista Place,Tagopia,9/5/2023,860,Snacks
+Plastic Arrow Stir Stick,9.71,308,41015 Sauthoff Avenue,Eazzy,2/10/2023,861,Snacks
+"Chestnuts - Whole,canned",1.62,468,0 Elka Terrace,Katz,8/15/2022,862,Candy
+Bagel - Everything,9.58,864,39 Boyd Place,Quatz,9/22/2023,863,Candy
+Yukon Jack,4.99,861,7800 Prairieview Junction,Tagpad,1/20/2022,864,Candy
+Pie Shell - 9,1.33,492,24875 Katie Trail,Youtags,7/2/2022,865,Snacks
+Basil - Fresh,1.43,320,30 Washington Plaza,Leenti,10/4/2023,866,Candy
+Wine - Jafflin Bourgongone,4.0,934,2 Lerdahl Place,Voonder,5/26/2023,867,Candy
+Glycerine,6.02,160,6197 Hollow Ridge Point,Shufflester,1/9/2023,868,Candy
+Pork - Caul Fat,6.44,427,137 Stuart Way,Mynte,8/15/2022,869,Snacks
+Mangostein,7.04,973,368 Tennessee Avenue,Gabtune,5/12/2023,870,Snacks
+Plate Pie Foil,1.78,230,540 Esch Way,Edgepulse,12/4/2023,871,Snacks
+"Lamb - Leg, Diced",2.57,274,8 Bluejay Street,Thoughtsphere,5/6/2023,872,Beverages
+Glucose,2.32,349,2781 Caliangt Circle,Dabjam,4/29/2022,873,Beverages
+Mushroom Morel Fresh,2.58,830,23 Thierer Parkway,Jayo,7/25/2023,874,Snacks
+Monkfish Fresh - Skin Off,2.31,974,1 Arrowood Road,Kwilith,6/29/2023,875,Candy
+"Wine - White, Riesling, Semi - Dry",5.5,648,15 Sunbrook Hill,Eayo,7/3/2023,876,Beverages
+"Bread - Roll, Whole Wheat",9.7,20,8 Almo Street,Blognation,11/28/2022,877,Candy
+"Cheese - Brie,danish",1.47,543,16 West Drive,Devpoint,8/31/2022,878,Snacks
+Table Cloth 54x54 Colour,4.48,850,03 Grayhawk Junction,Quire,12/11/2023,879,Beverages
+"Gin - Gilbeys London, Dry",9.08,842,5 Hoard Hill,Kare,4/2/2023,880,Snacks
+Frangelico,4.27,865,41730 Lien Drive,Rhynoodle,7/1/2022,881,Candy
+Fenngreek Seed,6.02,914,6722 Union Court,Babbleopia,11/14/2023,882,Beverages
+Arizona - Plum Green Tea,2.84,133,9267 West Street,Mydeo,12/11/2023,883,Candy
+Sugar - Individual Portions,7.83,540,9 Pepper Wood Court,Photobug,11/24/2023,884,Snacks
+Sprouts - Onion,4.25,300,6 Victoria Plaza,Mita,8/20/2023,885,Candy
+"Nestea - Ice Tea, Diet",3.2,286,6 Eastlawn Trail,Edgeify,3/3/2022,886,Beverages
+Chocolate Liqueur - Godet White,2.21,650,66360 Union Park,Kanoodle,2/7/2023,887,Beverages
+Cleaner - Bleach,9.15,378,771 Onsgard Road,Eayo,11/28/2022,888,Beverages
+Beef - Salted,4.91,440,41 Harbort Way,Linkbridge,6/25/2022,889,Candy
+Mushroom Morel Fresh,8.63,689,6 Loeprich Crossing,Edgeclub,3/4/2022,890,Snacks
+Pasta - Orecchiette,9.14,141,531 Hollow Ridge Trail,Zoombeat,12/11/2022,891,Snacks
+"Pasta - Linguini, Dry",4.41,78,2867 Mosinee Court,Buzzster,6/13/2022,892,Snacks
+Wonton Wrappers,5.18,218,03 Sullivan Point,Shufflester,11/30/2022,893,Candy
+Bread Base - Goodhearth,1.15,819,14779 Arizona Place,Dynava,3/9/2023,894,Candy
+Spinach - Baby,5.15,459,9 8th Park,Topdrive,3/30/2022,895,Snacks
+Cake - Miini Cheesecake Cherry,6.34,197,3 Sutherland Court,Feedfire,12/13/2022,896,Beverages
+Chickhen - Chicken Phyllo,1.94,413,5 Calypso Place,Kaymbo,4/7/2022,897,Snacks
+Ice Cream Bar - Drumstick,3.45,463,674 Amoth Street,Youspan,5/21/2022,898,Beverages
+Schnappes Peppermint - Walker,4.88,907,8 Village Alley,Tazz,9/30/2022,899,Beverages
+"Salsify, Organic",7.65,773,6665 Surrey Parkway,Brainverse,6/19/2023,900,Snacks
+"Tomatoes - Vine Ripe, Red",8.66,821,351 Lakeland Terrace,Kanoodle,9/29/2023,901,Candy
+"Veal - Shank, Pieces",1.25,127,89 Killdeer Road,Realbridge,12/19/2023,902,Candy
+"Chocolate - Milk, Callets",4.9,732,7 Valley Edge Drive,Reallinks,9/11/2023,903,Snacks
+Croissants Thaw And Serve,7.89,691,79420 Evergreen Park,Izio,10/16/2023,904,Snacks
+Gelatine Leaves - Bulk,4.09,181,7 Morrow Center,Fivebridge,4/16/2023,905,Snacks
+Crab - Imitation Flakes,2.63,760,35994 Memorial Center,Eazzy,10/23/2022,906,Snacks
+Flower - Leather Leaf Fern,2.64,490,35977 Pearson Circle,Ooba,10/17/2022,907,Candy
+Wine - Sogrape Mateus Rose,3.4,376,370 Valley Edge Parkway,Yakitri,2/27/2023,908,Beverages
+Beans - Butter Lrg Lima,3.29,757,7 Eastlawn Terrace,Jabbersphere,10/6/2023,909,Snacks
+Wine - Masi Valpolocell,5.41,860,2076 Butterfield Plaza,Zoonder,1/4/2023,910,Candy
+Jolt Cola,6.46,950,4228 Caliangt Crossing,Jaxworks,12/25/2022,911,Snacks
+"Lamb - Pieces, Diced",6.9,961,403 Forest Circle,Divavu,10/30/2023,912,Snacks
+"Fish - Soup Base, Bouillon",5.19,298,7369 Buhler Way,Meejo,3/18/2023,913,Snacks
+The Pop Shoppe - Grape,7.8,425,33652 Everett Drive,Skyble,11/6/2022,914,Snacks
+Extract - Almond,8.52,376,273 Lien Street,Dabvine,3/14/2022,915,Snacks
+Tea - Lemon Scented,7.68,269,33 Morning Court,Eabox,4/21/2022,916,Beverages
+Hersey Shakes,4.98,722,0891 Wayridge Crossing,Yacero,9/16/2022,917,Snacks
+Longos - Assorted Sandwich,4.42,317,3856 Northport Plaza,Yodo,6/18/2022,918,Beverages
+Persimmons,7.46,739,1 Bluejay Place,Meembee,4/19/2022,919,Candy
+Canada Dry,7.63,869,786 Oak Avenue,Skipfire,1/14/2023,920,Snacks
+Waffle Stix,3.72,588,04665 Spohn Drive,Quatz,8/10/2022,921,Snacks
+Chevril,9.37,631,01931 Corscot Street,Jabberbean,4/6/2023,922,Candy
+"Lamb - Whole, Frozen",3.93,185,82 Grayhawk Terrace,Miboo,5/10/2022,923,Candy
+Jameson Irish Whiskey,9.38,462,5406 Sunnyside Drive,Zoombox,11/30/2022,924,Snacks
+Beer - Maudite,8.85,354,3028 North Court,Feedbug,12/6/2022,925,Snacks
+"Soup - Knorr, French Onion",6.92,506,2274 Browning Crossing,Abatz,11/22/2023,926,Snacks
+Trout - Smoked,1.52,98,20 Armistice Plaza,Meeveo,8/30/2022,927,Beverages
+Bag Stand,5.52,939,47116 Homewood Alley,Bubbletube,10/1/2023,928,Candy
+Bar Bran Honey Nut,5.95,76,84 Packers Drive,Ailane,1/11/2023,929,Candy
+"Bread - Pita, Mini",7.92,887,79789 Red Cloud Center,Trupe,6/17/2023,930,Snacks
+Bread - Raisin Walnut Oval,6.27,70,1 Mallard Point,Twimbo,6/26/2023,931,Candy
+Ice Cream Bar - Oreo Sandwich,8.19,132,69 Elmside Junction,Mynte,11/16/2022,932,Beverages
+Broom - Corn,7.74,862,9383 Katie Park,Buzzbean,2/23/2023,933,Candy
+"Lentils - Red, Dry",6.71,508,37 Old Gate Avenue,Tekfly,6/12/2022,934,Candy
+Milk - Condensed,5.1,245,25 Mariners Cove Lane,Jabbersphere,3/15/2023,935,Candy
+Bagel - Sesame Seed Presliced,1.45,774,815 Schiller Circle,Yombu,11/9/2023,936,Candy
+Tea - Camomele,7.16,640,09 Paget Junction,Janyx,3/15/2023,937,Beverages
+Prunes - Pitted,4.74,639,7 Nova Parkway,Fliptune,4/17/2022,938,Candy
+Sage - Ground,6.53,108,35447 Shelley Avenue,Buzzshare,12/23/2023,939,Beverages
+Seabream Whole Farmed,5.37,844,82 Lien Park,Quinu,8/22/2022,940,Snacks
+Salt And Pepper Mix - White,5.13,144,6290 Sunnyside Circle,Oyoloo,12/21/2022,941,Beverages
+Chicken - White Meat With Tender,5.98,608,321 Starling Circle,Realblab,1/31/2022,942,Candy
+"Beef - Rouladin, Sliced",5.44,440,46 Rutledge Junction,Gevee,11/10/2022,943,Beverages
+Milk - 1%,4.13,97,470 Prentice Pass,Fliptune,10/15/2022,944,Snacks
+Cranberries - Dry,7.63,881,15 Brickson Park Place,Babbleopia,2/6/2022,945,Beverages
+Cheese - Brie,2.32,198,221 Kingsford Lane,Aimbo,3/29/2022,946,Snacks
+"Pasta - Fusili, Dry",3.05,193,2 Gerald Hill,Edgewire,7/23/2022,947,Beverages
+Emulsifier,8.11,742,922 Melby Lane,Jabberbean,9/7/2023,948,Snacks
+Radish,5.62,731,6 Mallard Circle,Aimbu,10/3/2022,949,Beverages
+Peppercorns - Green,4.87,306,8406 Thompson Hill,Trudeo,1/8/2023,950,Beverages
+"Syrup - Monin, Swiss Choclate",9.2,675,7034 Dottie Street,Tagfeed,8/16/2023,951,Candy
+Mushroom - Lg - Cello,6.82,265,17994 Buena Vista Avenue,Camimbo,10/26/2022,952,Beverages
+Turnip - Mini,8.24,306,70067 Graceland Street,Topiczoom,6/19/2023,953,Beverages
+Bread Base - Gold Formel,1.04,707,2 Forest Court,Realfire,6/5/2022,954,Beverages
+"Wine - White, Schroder And Schyl",2.98,41,65 Anhalt Avenue,Jaxnation,8/24/2022,955,Beverages
+Flour - Bread,8.22,142,6 Declaration Circle,Fivechat,2/20/2022,956,Beverages
+Bread - Italian Corn Meal Poly,4.86,959,17 Fieldstone Court,Twitterlist,3/25/2023,957,Beverages
+Ecolab - Ster Bac,8.83,152,572 Lotheville Trail,Chatterpoint,4/17/2023,958,Snacks
+Knife Plastic - White,6.21,635,04 Butterfield Court,Skaboo,10/4/2022,959,Snacks
+Papayas,7.34,772,9563 Luster Place,Twinder,5/8/2022,960,Candy
+Napkin Colour,3.24,580,1 Merry Drive,Demivee,6/20/2023,961,Beverages
+"Beans - Long, Chinese",8.23,316,179 Summerview Trail,Plambee,4/10/2022,962,Candy
+Truffle - Whole Black Peeled,5.48,992,004 Arrowood Plaza,Thoughtblab,1/31/2023,963,Candy
+Coffee Cup 8oz 5338cd,4.71,320,587 Laurel Park,Skalith,2/9/2022,964,Snacks
+Ecolab - Ster Bac,6.83,140,2 Independence Avenue,Innojam,1/25/2023,965,Candy
+Rice - Long Grain,8.8,147,07 Vernon Crossing,Buzzster,6/15/2023,966,Snacks
+Cheese Cloth No 100,6.83,458,666 Marquette Circle,Ntags,11/21/2022,967,Snacks
+Bread - Hamburger Buns,5.76,13,19447 Main Pass,Jabbertype,8/16/2023,968,Beverages
+Muffin - Mix - Strawberry Rhubarb,5.29,933,43 Ludington Avenue,Photospace,11/28/2022,969,Beverages
+Sansho Powder,9.87,773,48 Glacier Hill Center,Photofeed,2/1/2023,970,Candy
+Chinese Foods - Thick Noodles,5.58,20,892 Prentice Alley,Skiptube,1/3/2022,971,Beverages
+Sprouts - Alfalfa,5.37,882,9 Vernon Hill,Brightdog,1/27/2022,972,Candy
+"Cheese - Havarti, Salsa",4.35,711,34648 8th Crossing,Talane,8/29/2023,973,Beverages
+Energy Drink Bawls,8.79,39,77 Scott Center,Skyvu,6/10/2023,974,Candy
+Sugar - Cubes,1.85,986,2 Mandrake Parkway,Demizz,10/8/2023,975,Candy
+Muffin - Carrot Individual Wrap,8.06,492,29 Petterle Street,Kazio,8/7/2023,976,Snacks
+Sauce - Mint,4.5,81,914 Crownhardt Road,Edgetag,8/19/2022,977,Snacks
+Wine - Soave Folonari,1.65,488,603 Anniversary Parkway,Flashdog,4/20/2023,978,Beverages
+Cup Translucent 9 Oz,9.42,97,16577 Atwood Road,Babbleset,6/24/2022,979,Candy
+Flavouring Vanilla Artificial,1.2,543,7 Birchwood Pass,Leenti,12/8/2023,980,Candy
+Kippers - Smoked,3.59,196,71 Oneill Lane,Yabox,8/31/2023,981,Snacks
+Muffin Mix - Lemon Cranberry,3.18,260,84 Anderson Lane,Jabbersphere,9/10/2023,982,Beverages
+Bread - Olive Dinner Roll,1.41,639,61512 Northland Trail,Livetube,1/11/2022,983,Beverages
+Goat - Leg,2.97,485,23182 Manufacturers Lane,Yakitri,4/20/2022,984,Candy
+Sea Urchin,6.05,215,632 Fairview Parkway,Photobug,4/22/2023,985,Snacks
+"Pasta - Fusili, Dry",2.24,688,999 Texas Junction,Trudeo,2/17/2023,986,Beverages
+"Pasta - Fettuccine, Dry",4.09,627,1 Evergreen Lane,Cogilith,10/7/2022,987,Candy
+Chicken - Wieners,5.62,778,00 Dixon Park,Ainyx,9/17/2023,988,Beverages
+"Pail - 15l White, With Handle",1.98,789,593 Spaight Center,Flashspan,8/30/2022,989,Candy
+Sole - Fillet,4.81,268,655 Eastlawn Hill,Voomm,8/18/2022,990,Snacks
+"Beef - Ground, Extra Lean, Fresh",8.77,353,99 Starling Junction,Babbleblab,4/14/2023,991,Snacks
+Salmon Steak - Cohoe 6 Oz,4.19,797,6 Service Park,Rhycero,12/11/2022,992,Candy
+Steam Pan Full Lid,9.95,335,959 Cherokee Plaza,Fivechat,9/15/2023,993,Snacks
+Wine - Chateau Aqueria Tavel,2.07,202,4565 Spaight Plaza,Viva,11/23/2022,994,Snacks
+Ice Cream - Strawberry,4.73,128,085 Butternut Circle,Trilia,9/19/2022,995,Beverages
+Quail - Jumbo Boneless,5.08,161,03014 Grover Place,Katz,11/22/2023,996,Snacks
+Lettuce - Frisee,2.26,937,660 Kings Avenue,Skinder,6/10/2022,997,Beverages
+"Yogurt - Banana, 175 Gr",3.42,272,23415 Pine View Center,Blogtag,10/24/2022,998,Beverages
+Bread - Burger,2.19,692,25869 Dawn Plaza,Blogspan,6/27/2022,999,Candy
+"Chilli Paste, Hot Sambal Oelek",3.89,976,99 Columbus Lane,Rhynyx,3/26/2023,1000,Snacks
